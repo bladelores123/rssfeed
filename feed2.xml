@@ -1,7 +1,1393 @@
-<br />
-<b>Fatal error</b>:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/Applications/AMPPS/var/mysql.sock' (38)' in /Users/flutter/www/rssfeed/lib/Medoo.php:240
-Stack trace:
-#0 /Users/flutter/www/rssfeed/db.php(14): Medoo\Medoo-&gt;__construct(Array)
-#1 /Users/flutter/www/rssfeed/feed.php(8): require('/Users/flutter/...')
-#2 {main}
-  thrown in <b>/Users/flutter/www/rssfeed/lib/Medoo.php</b> on line <b>240</b><br />
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>Leo's Blog: Infinite Insights - Actualized.org</title>
+<link>https://www.actualized.org/insights</link>
+<description><![CDATA[Leo's Blog: Infinite Insights - Actualized.org]]></description>
+<lastBuildDate>Mon, 29 Oct 2018 11:55:36 +0000</lastBuildDate>
+<item>
+<title>Dumbo Gets Trippy</title>
+<link>https://www.actualized.org/insights/dumbo-gets-trippy</link>
+<description><![CDATA[<p>Something about this animation rings so true of how universal mind works. Universal mind has this sort of whimsical intelligence, which makes it so creative.</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/jcZUPDMXzJ8?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Notice how much intelligence is displayed here. This is a tiny glimpse of infinite intelligence. Notice how it is non-rational. It's not less than rational, it's more than.</p>
+]]></description>
+<pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/dumbo-gets-trippy</guid>
+</item>
+<item>
+<title>Remember To Vote 2018</title>
+<link>https://www.actualized.org/insights/remember-to-vote-2018</link>
+<description><![CDATA[<p><img class="alignnone size-full wp-image-3999" src="https://www.actualized.org/wordpress/wp-content/uploads/leo_vote_01.jpg" alt="leo_vote_01" width="400" height="533" /></p>
+<p>If you're in the US, it's time to vote. Early voting has started in many states.</p>
+<p>2018 is an important election cycle.</p>
+<p>Who should you vote for? Vote for the most conscious, the most Spirally developed candidates who have a reasonable chance of winning. Do not fall into the trap of voting on single issues. Vote on the overall level of development of the candidate. The more conscious the leader, the better they will lead, the less corruption and egotism they will enable.</p>
+]]></description>
+<pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/remember-to-vote-2018</guid>
+</item>
+<item>
+<title>Nootropics Forum</title>
+<link>https://www.actualized.org/insights/nootropics-forum</link>
+<description><![CDATA[<p>As promised in the Nootropics video, here's a nootropics forum I like:</p>
+<p><a href="https://www.longecity.org/forum/forum/169-brain-health/" target="_blank">LongeCity Brain Health Forum</a></p>
+<p>It's a great resource if you're trying to optimize your brain health.</p>
+<p>P.S. The <a href="https://www.reddit.com/r/Nootropics/" target="_blank">Nootropics subReddit</a> is also great.</p>
+]]></description>
+<pubDate>Sun, 21 Oct 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/nootropics-forum</guid>
+</item>
+<item>
+<title>The Magic Of Consciousness</title>
+<link>https://www.actualized.org/insights/the-magic-of-consciousness</link>
+<description><![CDATA[<p>It can be easier to recognize what consciousness is when it changes rapidly and fluidly right before your eyes. Can you see that the image below is pure consciousness? Look at what consciousness can do! Try staring at it as though you were meditating on it. Become aware that it is you. This is NOT pixels on a screen! This is CONSCIOUSNESS!</p>
+<p><img class="alignnone size-full wp-image-3973" src="https://www.actualized.org/wordpress/wp-content/uploads/consciousness.gif" alt="consciousness" width="500" /></p>
+<p>Marvel at your own beauty.</p>
+]]></description>
+<pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/the-magic-of-consciousness</guid>
+</item>
+<item>
+<title>The Dunning-Kruger Effect</title>
+<link>https://www.actualized.org/insights/the-dunning-kruger-effect</link>
+<description><![CDATA[<p>The <a href="https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect" target="_blank">Dunning-Kruger Effect</a> explains why, when people are ignorant, they tend to be aggressively ignorant.</p>
+<p>"If you're incompetent, you can't know you're incompetent... The skills you need to produce a right answer are exactly the skills you need to recognize what a right answer is." — David Dunning</p>
+<p>Basically, the more of a fool you are, the less capacity you have to recognize that you are being a fool. Have you noticed? — when dealing with a fool, how difficult it can be to convince him that he's a fool? That's precisely what makes him a fool!</p>
+<p>Arrogance & intransigence are the hallmark of fools.</p>
+<p>Humility is the hallmark of sages.</p>
+]]></description>
+<pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/the-dunning-kruger-effect</guid>
+</item>
+<item>
+<title>Skepticism &amp; Nonduality</title>
+<link>https://www.actualized.org/insights/skepticism-and-nonduality</link>
+<description><![CDATA[<p></p><p class="video_box"><iframe src="https://player.vimeo.com/video/293223395?title=0&byline=0&portrait=0" width="615" height="345" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></p>
+]]></description>
+<pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/skepticism-and-nonduality</guid>
+</item>
+<item>
+<title>Shugendo</title>
+<link>https://www.actualized.org/insights/shugendo</link>
+<description><![CDATA[<p>Shugendo is a 7th century Japanese form of spirituality:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/8Cl3MCzB_WM?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Shugendo was banned by the Japanese government in 1872 until the end of WWII, when religious freedom was restored.</p>
+<p>This is how self-actualization was done 1000 years ago. And it's still done this way in many places around the world today.</p>
+]]></description>
+<pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/shugendo</guid>
+</item>
+<item>
+<title>Yugen</title>
+<link>https://www.actualized.org/insights/yugen</link>
+<description><![CDATA[<p><a href="https://www.actualized.org/wordpress/wp-content/uploads/yugen_02.png"><img class="alignnone size-full wp-image-3976" src="https://www.actualized.org/wordpress/wp-content/uploads/yugen_02.png" alt="yugen_02" width="615" /></a></p>
+<p>This is what I was talking about in the <a href="https://www.actualized.org/articles/what-is-spirituality" target="_blank">What Is Spirituality? video</a> where I said that spirituality is "developing a deep metaphysical connection with reality."</p>
+<p>Yugen! — that's what you're really looking for.</p>
+]]></description>
+<pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/yugen</guid>
+</item>
+<item>
+<title>How I Started My First Business</title>
+<link>https://www.actualized.org/insights/how-i-started-my-first-business</link>
+<description><![CDATA[<p></p><p class="video_box"><iframe src="https://player.vimeo.com/video/293100442?title=0&byline=0&portrait=0" width="615" height="345" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></p>
+]]></description>
+<pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/how-i-started-my-first-business</guid>
+</item>
+<item>
+<title>Hate or Love?</title>
+<link>https://www.actualized.org/insights/hate-or-love</link>
+<description><![CDATA[<p>Here's a really interesting look into a heavy version of <a href="https://www.actualized.org/articles/spiral-dynamics-stage-blue" target="_blank">Spiral Dynamics stage Blue</a> ethnocentrism.</p>
+<p>Ethnocentrism means: "I love my family, people, my race, my religion, my country, my culture, my traditions We are the best!" The world is divided into us vs them. What happens to "them" — other peoples, races, nations, religions, countries, cultures — does not matter. They are basically dispensable. They can be hated, excluded, demonized, slandered, raped, killed, tortured, etc. That doesn't matter because "they" are not "us".</p>
+<p>One of the astounding features of the ethnocentric mindset is that it lacks the self-awareness to realize that it is ethnocentric. It literally cannot see outside its own perspective. You must understand: just because you have the capacity to look at the world through different perspectives does not mean that everyone else does! Most people do not have this capacity! This capacity is not a given.</p>
+<p>Very few people understand the ethnocentric mindset. Those who have developed beyond it cannot understand it because it looks like delusion of the highest order. To whose who are immersed in it, it looks totally natural, normal, and could not be otherwise. So neither side really understands.</p>
+<p>I challenge you here not to judge, not to gawk, but to really seek to understand the mindset and worldview of an ethnocentric person. Get inside their mind. Look at the world as they see it.</p>
+<p>Remember, about 70-80% of the world population is at ethnocentric stage Blue. It would be wise of you to develop a deep understanding of how they think.</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/HFwOF9VTvhA?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Important Note: Ethnocentrism comes in many degrees. The example above is a fairly heavy degree. Not all stage Blue people are this heavy. Although, many of them are! — just in more socially acceptable ways.</p>
+]]></description>
+<pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/hate-or-love</guid>
+</item>
+<item>
+<title>All Understanding Is Metaphoric - Part 2</title>
+<link>https://www.actualized.org/insights/all-understanding-is-metaphoric-part-2</link>
+<description><![CDATA[<p></p><p class="video_box"><iframe src="https://player.vimeo.com/video/289027968?title=0&byline=0&portrait=0" width="615" height="345" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Correction: In this video I used the example of "Vishnu" when I really meant to say "Ganesha" — the elephant god. It doesn't really matter but I mixed up those two Hindu deities.</p>
+<p>Here's a <a href="https://www.actualized.org/insights/all-understanding-is-metaphoric" target="_blank">link to Part 1</a> in case you missed it.</p>
+]]></description>
+<pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/all-understanding-is-metaphoric-part-2</guid>
+</item>
+<item>
+<title>Orange Fraud</title>
+<link>https://www.actualized.org/insights/orange-fraud</link>
+<description><![CDATA[<p>What many non-business people do not realize is just how much corruption, fraud, manipulation, and downright criminality is involved in forging success. Many successful <a href="https://www.actualized.org/articles/spiral-dynamics-stage-orange" target="_blank">Spiral Dynamics stage Orange</a> people are really just fakes who strong-armed their way to the top through special privilege, backroom deals, and outright theft. Success is not an honest signal because it can be faked so easily. It's much easier to fake being a rich person than to fake being a loving person.</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/RyYn1c5CVy4?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>As far as Trump's fraud goes, this is still only the tip of the iceberg. It's a lot worse than anyone's yet disclosed. As predicted by Spiral Dynamics and ego dynamics.</p>
+<p>Again, I'm not posting this as a political attack or some liberal talking point. I'm trying to unmask for you just how sneaky and fraudulent the ego is. Because a lot of naive people see a successful-looking ego and aren't able to realize that the success is just a front. It's not merely that Trump is fooling lots of people, first and foremost he is fooling himself. This is not a Trump issue, this is an ego issue. You can think of Trump as a zombified corpse possessed and reanimated by a spirit known as ego. This spirit dictates everything he does, making him very predictable.</p>
+<p>It's important to realize that success is mostly a facade. Most celebrities you admire are paper thin. They are not well-developed, conscious human beings. This includes popular self-help authors, business leaders, PUAs, YouTubers, TV pundits, public intellectuals, etc. Even if you manage to become successful, you will still be rotten to the core and hollow inside. Never, ever, mistake success for development, consciousness, or happiness.</p>
+<p>In our stage Orange society it can be challenging for people to distinguish between success and development — because most people have done zero deliberate development work. Which is how we ended up with Trump. As you become more developed and conscious of how the ego works, all of this will become totally transparent to you.</p>
+<p>The entire stage Orange system of business is built on mass-scale white-collar fraud, exploitation, and manipulation. It's just carefully tucked behind a glamorous facade. This is not some kind of anomaly, this is business as usual. Totally normalized by stage Orange culture.</p>
+<p>But you see, the problem with all the ego's lies and deceptions is that the truth always wins out in the end, leading to a tragic comeuppance. This is karma at its finest. Karma will be knocking on Trump's door for years to come.</p>
+<p>So what's the solution? Repent devil! Bite the bullet now and align yourself with truth.</p>
+]]></description>
+<pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/orange-fraud</guid>
+</item>
+<item>
+<title>Psychedelic Receptors</title>
+<link>https://www.actualized.org/insights/psychedelic-receptors</link>
+<description><![CDATA[<p>There are dozens of different kinds of psychedelics and dozens of different kinds of neurotransmitter receptor sites in the brain. Each psychedelic has a unique neurotransmitter receptor site profile. This is like the psychedelic's unique fingerprint, which determines the qualitative effects you feel during the trip. It can be illuminating to compare the fingerprints for various psychedelics.</p>
+<p>The following is a chart I put together that you won't see anywhere else. It maps over 40 receptor sites and a dozen psychedelic substances. Each vertical column represents the psychedelic's receptor fingerprint. Dark squares represent lowest activity, bright squares represent highest activity.</p>
+<p><a href="https://www.actualized.org/wordpress/wp-content/uploads/psychedelics-receptor-chart-02.png"><img class="alignnone size-full wp-image-3952" src="https://www.actualized.org/wordpress/wp-content/uploads/psychedelics-receptor-chart-02.png" alt="psychedelics-receptor-chart-02" width="615" /></a></p>
+<p>Looking over this data, some interesting observations jump out:</p>
+<ul>
+<li>Notice the unique fingerprints of MDMA, ibogaine, and salvia. Salvia and ibogaine are two of the most unique substances. Ibogaine activates almost all the opposite receptor sites of conventional psychedelics like LSD, psilocybin, and DMT. This should tell us that an ibogaine trip will be unlike any other (as people report). Salvia pretty much only activates one receptor site: KOR, which no other convention psychedelic activates at all. KOR alone is responsible for salvia's notorious craziness.</li>
+<li>Notice how LSD is the most active overall psychedelic. It lights up so many receptors, and it certainly feels that way when you're tripping.</li>
+<li>Comparing ordinary DMT with 5-MeO-DMT we can see that DMT is very active in the Alpha1A - Alpha2C range while 5-MeO is not. This suggests that the Alpha range is responsible for the intensive visual hallucinations that DMT is best known for, but which 5-MeO-DMT almost entirely lacks.</li>
+<li>Pay close attention to the Imidazoline1 row. This receptor site seems to be responsible for the experience of infinite divine love. The 3 greatest activators of Imidazoline1 are: MDMA (219.7), DPT (340), and DIPT (356). But any psychedelic which is active in this row will have a good chance of giving an infinite love feeling during your trip. Interestingly, LSD has no Imidazoline1 activation.</li>
+<li>Notice how unique and "mild" mescaline looks compared to 2C-B and 2C-E (its closest chemical cousins). Perhaps this is why people report that mescaline trips (despite the initial nausea) are some of the most pleasant trips, with few reports of bad trips.</li>
+<li>Notice the differences and similarities between Psilocin & LSD.</li>
+</ul>
+<p>The chart would be even better if I could find some data for 4-AcO-DMT, 4-HO-MET, AL-LAD, DXM, ketamine, bufotinine, and datura.</p>
+<p>In the future, with more research, we should have really accurate maps like this for all psychedelic substances. We could even design new psychedelics to uniquely target specific receptor sites.</p>
+<p>Data Source: <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0009019" target="_blank">Psychedelics and the Human Receptorome, Thomas S. Ray, Feb 2010</a></p>
+]]></description>
+<pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/psychedelic-receptors</guid>
+</item>
+<item>
+<title>How Dogma Gets Made</title>
+<link>https://www.actualized.org/insights/how-dogma-gets-made</link>
+<description><![CDATA[<p>This is a very important video. Watch it all the way through while doing the following:</p>
+<ol>
+<li>Be very mindful of your judgments.</li>
+<li>Be very mindful of how you separate yourself from these Mormons in your mind, taking a "me rational", "them irrational" attitude.</li>
+<li>Contemplate how your current place in life, and all of your beliefs, are the result of cultural indoctrination</li>
+</ol>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/3ralXLnOqDI?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Do not think you are any different than these Mormons. Fundamentally, every human in the world is just like them. All of your cultural, political, spiritual, rational, and scientific preferences were programmed into you in a very similar manner, just less obviously so. Think about all the ways you were indoctrinated: kindergarten, family, school, church, high school, university, friends, social circles, parties, sports, books, magazines, radio, TV, internet, video games, commercials, grocery stores, shopping malls, etc.</p>
+<p>Contemplate the notion that ALL of your beliefs about reality are cultural programming. You didn't believe them because they were true, you believed them because you knew of no other possibility. Of course this includes all of your so-called "scientific" and "rational" ideas. Hardly a single idea you have came from independent contemplation of reality. And to top it all off, you basically run around infecting other people with your ideas just like the Mormon zombies above. And if anyone tries to point all this out to you, you will of course vehemently deny it.</p>
+<p>Who would you be, what would your life be like today, if you had not been indoctrinated with all the ideas present in your head? Imagine if you were born into a Mormon family, a Muslim family, an orthodox Jewish family, a polygamous family, etc.</p>
+<p>Watch out! You may think to yourself, "Phewwww! I'm so lucky I wasn't born into one of those fundamentalist families. I really dodged a bullet!" Except you haven't! All of your secular liberal ideals are also just cultural indoctrination. If you believe in the value of democracy, freedom, goodness, equality, justice, truth, etc. — all of that is cultural indoctrination! You did not invent a single one of those values/ideals. Notice this! Stop bullshitting yourself. Carefully trace where each of your ideals came from. Not the myth of where they come from, but where they ACTUALLY came from: someone indoctrinated you and you swallowed it hook, line, and sinker.</p>
+<p>Only if you understand this will you have a chance of breaking free.</p>
+<p>Try to imagine what it would take for those Mormons to break free.</p>
+<p>Now you have a sense of what it will take you to escape The Matrix.</p>
+]]></description>
+<pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/how-dogma-gets-made</guid>
+</item>
+<item>
+<title>Got Asbestos?</title>
+<link>https://www.actualized.org/insights/got-asbestos</link>
+<description><![CDATA[<p>Eye-opening documentary about the intersection of ego, health, and environmental regulation.</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/cy3piCUPIkc?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Notice how the ego-mind rationalizes and adapts to unhealthy conditions as long as it serves the ego-mind's way of life. The ego-mind is not going to admit that its entire community and city are built on a toxic premise.</p>
+<p>Notice how this is really an issue of collective ego.</p>
+<p><a href="https://www.actualized.org/articles/spiral-dynamics-stage-orange" target="_blank">Spiral Dynamics stage Orange</a> and below turns a blind eye to these kinds of environmental concerns. This is all very predictable.</p>
+]]></description>
+<pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/got-asbestos</guid>
+</item>
+<item>
+<title>Politics &amp; Ego</title>
+<link>https://www.actualized.org/insights/politics-and-ego</link>
+<description><![CDATA[<p>Here's a really good analysis by Fareed Zakaria of what's going on in global politics:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/ri9qP5YYEaM?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>He is talking about transitioning Europe and the US to <a href="https://www.actualized.org/articles/spiral-dynamics-stage-green" target="_blank">Spiral Dynamics stage Green</a>.</p>
+<p>Politics is basically about evolving our identity as a nation. The turmoil we're seeing in politics today is the result of old, ethnocentric, nationalistic identities struggling to evolve into new, more global, more multicultural, more cosmopolitan identities. As the world gets smaller due to digital interconnection, ease of travel, migration, and inter-racial relationships the old national, cultural, and ethnic boundaries will inevitably get blurred, leaving many traditional egos feeling their identities threatened.</p>
+<p>What is required is an openmindedness to a new, wider identity. You can no longer just be an American, a German, a Muslim, a Jew, a man — you must open yourself to being a global citizen, a human. It is not sustainable to maintain isolationism and nationalism in the face of a rapidly evolving global marketplace. The globe is only going to interconnect more, not less. Diversity will be thrust in your face whether you like it or not.</p>
+<p>Zakaria cites political scientist Francis Fukuyama as saying, "Identity is the deep-seated psychological need to be recognized as possessing dignity." But this fails to appreciate the depth of the problem. Identity is not merely a psychological need, identity is an existential, metaphysical imperative. Threats to one's identity are not merely perceived as a psychological annoyance, but life-threatening. Because identity is not a physical, objective fact but a conceptual construction. One's identity and one's reality are deeply enmeshed and mutually reinforcing.</p>
+<p>This is why <a href="https://www.actualized.org/articles/spiral-dynamics-stage-blue" target="_blank">stage Blue</a> and <a href="https://www.actualized.org/articles/spiral-dynamics-stage-orange" target="_blank">Orange</a> egos resist stage Green with such passion. To the ego this feels like battle to the death. Because it is death! Death = loss of identity. And the ego will always lose!</p>
+<p>But it is also a rebirth into a larger, better, truer you. Your true identity is infinite.</p>
+<p>The trick is to get over yourself. (Which of course no one wants to do.)</p>
+<p>What people fail to understand about politics is that it's not merely a personal preference for various "good" or "bad" social and economic issues. No! Politics is a battle to invent "good" and "bad"! Politics is a battle to the death to define one's identity, reality, and to rig the structures of society to maximize the survival of one's ego. This is why you don't find much truth in politics. Its purpose is the opposite of truth: survival through fabrication.</p>
+<p>Politically in the US and in Europe things are going to get worse before they get better. Stage Blue & Orange are entering their sunset phase in the highly developed Western countries, but they are not going away without a fight. Be prepared for backlash and desperate death throes over the next 50 years. Be prepared for lots of propaganda, fake news, demonization, and disinformation campaigns. This is how the devil plies his trade.</p>
+]]></description>
+<pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/politics-and-ego</guid>
+</item>
+<item>
+<title>5-MeO-DMT Discussion</title>
+<link>https://www.actualized.org/insights/5-meo-dmt-discussion</link>
+<description><![CDATA[<p>Informative talk:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/_zSHc3PHJOk?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+]]></description>
+<pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/5-meo-dmt-discussion</guid>
+</item>
+<item>
+<title>Salvia Trip Report</title>
+<link>https://www.actualized.org/insights/salvia-trip-report</link>
+<description><![CDATA[<p>Here's an excellent salvia trip report. It gives a sense of how radically surreal consciousness can get. Salvia is one of the craziest psychedelics. I've heard descriptions like "I became a glass of orange juice" or "I drowned in a waterfall of Post-It notes."</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/z1Yux33LMPQ?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Saliva is a dangerous psychedelic which I do not recommend, and certainly never do it without a reliable trip sitter.</p>
+]]></description>
+<pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/salvia-trip-report</guid>
+</item>
+<item>
+<title>Silly Stage Blue Morality</title>
+<link>https://www.actualized.org/insights/silly-stage-blue-morality</link>
+<description><![CDATA[<p>This is how <a href="https://www.actualized.org/articles/spiral-dynamics-stage-blue" target="_blank">Spiral Dynamics stage Blue</a> reasons about morality:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/yrcQ_PTkVD4?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>In reality, murder is NOT wrong precisely BECAUSE God exists! God IS murder! How could God be infinite and yet exclude murder?? In the eyes of God, nothing is wrong. Only in the eyes of a big fat ego — like Dennis Prager (above) — is anything "wrong".</p>
+<p>This is the fundamental delusion of conservatives — they all tend to be moralists.</p>
+<p>Oh, the ignorance!</p>
+]]></description>
+<pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/silly-stage-blue-morality</guid>
+</item>
+<item>
+<title>Your Brain On LSD</title>
+<link>https://www.actualized.org/insights/your-brain-on-lsd</link>
+<description><![CDATA[<p><img class="alignnone size-full wp-image-3916" src="https://www.actualized.org/wordpress/wp-content/uploads/lsd-brain-scan-images.jpg" alt="lsd-brain-scan-images" width="615" /></p>
+<p>Your mind's interconnectedness, placebo vs mushrooms:</p>
+<p><img class="alignnone size-full wp-image-3917" src="https://www.actualized.org/wordpress/wp-content/uploads/image001.jpg" alt="rsif20140873.pdf" width="615" /></p>
+<p>Now that's what integral thinking looks like! :D</p>
+<p>Sources:</p>
+<ul>
+<li>The Guardian: <a href="https://www.theguardian.com/science/2016/apr/11/lsd-impact-brain-revealed-groundbreaking-images" target="_blank">LSD's Impact On The Brain Revealed In Groundbreaking Images</a></li>
+<li>Journal Of The Royal Society: <a href="http://rsif.royalsocietypublishing.org/content/11/101/20140873" target="_blank">Homological Scaffolds Of Brain Functional Networks</a></li>
+</ul>
+]]></description>
+<pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/your-brain-on-lsd</guid>
+</item>
+<item>
+<title>The Great Vernon Howard</title>
+<link>https://www.actualized.org/insights/the-great-vernon-howard</link>
+<description><![CDATA[<p>Vernon Howard is the one of the greatest least-known nondual teachers of all time.</p>
+<p>If you've ever wondered why I sometimes deliver teachings like I am talking down to you, it's because I love Vernon's acerbic, in-your-face style. He has no qualms belittling you like a school girl.</p>
+<p>When he speaks, your dumbass listens:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/41qA91w9QFo?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>This is nonduality for people who love getting schooled for the devils that they are.</p>
+<p>Damn, I love it! The epitome of masculine compassion.</p>
+]]></description>
+<pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/the-great-vernon-howard</guid>
+</item>
+<item>
+<title>Metaphysics vs Epistemology</title>
+<link>https://www.actualized.org/insights/metaphysics-vs-epistemology</link>
+<description><![CDATA[<p>Here we answer the question, "How are metaphysics and epistemology connected?" This is what 2500 years of Western philosophy and science have failed to understand:</p>
+<p></p><p class="video_box"><iframe src="https://player.vimeo.com/video/289205974?title=0&byline=0&portrait=0" width="615" height="345" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></p>
+]]></description>
+<pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/metaphysics-vs-epistemology</guid>
+</item>
+<item>
+<title>Why Get Rich Quick Schemes Don't Work</title>
+<link>https://www.actualized.org/insights/why-get-rich-quick-schemes-dont-work</link>
+<description><![CDATA[<p></p><p class="video_box"><iframe src="https://player.vimeo.com/video/289168944?title=0&byline=0&portrait=0" width="615" height="345" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Here's what I mean by <a href="https://www.youtube.com/watch?v=s6MwGeOm8iI" target="_blank">Get Rich Quick Schemes & MLMs</a></p>
+]]></description>
+<pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/why-get-rich-quick-schemes-dont-work</guid>
+</item>
+<item>
+<title>Inside The Mind Of Trump</title>
+<link>https://www.actualized.org/insights/inside-the-mind-of-trump</link>
+<description><![CDATA[<p>I recorded this a few days ago and was planning to release it next week, but seeing all the Trump craziness happening in the news this week, it feels appropriate to release it now.</p>
+<p></p><p class="video_box"><iframe src="https://player.vimeo.com/video/288315146?title=0&byline=0&portrait=0" width="615" height="345" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></p>
+]]></description>
+<pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/inside-the-mind-of-trump</guid>
+</item>
+<item>
+<title>What's Wrong With Jordan Peterson?</title>
+<link>https://www.actualized.org/insights/whats-wrong-with-jordan-peterson</link>
+<description><![CDATA[<p>For those who ask, "But what's wrong with Jordan Peterson??" Here it is in 5 minutes directly from the horse's mouth, unedited:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/LquIQisaZFU?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>The fear-mongering and strawmanning here of <a href="https://www.actualized.org/articles/spiral-dynamics-stage-green" target="_blank">Spiral Dynamics stage Green</a> is downright laughable. His argument may as well be a drawing of a hippie on a chalkboard with devil horns.</p>
+<p>Peterson's is such an obvious stage <a href="https://www.actualized.org/articles/spiral-dynamics-stage-blue" target="_blank">Blue</a>/<a href="https://www.actualized.org/articles/spiral-dynamics-stage-orange" target="_blank">Orange</a> reactionary ideology.</p>
+<p>What is this but a projection of Peterson's own fear of relativism, communalism, progressivism, and evolution?</p>
+<p>"Damn you hippies! Damn you all to hell with your long hair, your drum circles, and your... your... equality, diversity, and inclusion! How dare you!", said the cranky old grandpa sitting on his porch.</p>
+<p>Here's a hilarious blow-by-blow analysis, although it still misses the Spiral Dynamics perspective:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/TDNv0tQTw9k?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>P.S. PragerU is not a real university, it's a right-wing propaganda Youtube channel funded by stage Blue Christian fundamentalists and stage Orange hydraulic fracking billionaires as explained in this <a href="https://www.motherjones.com/politics/2018/03/inside-right-wing-youtube-turning-millennials-conservative-prageru-video-dennis-prager/" target="_blank">Mother Jones article</a>. They create videos like "Why Everyone Should Stand For The National Anthem" and "Just Say Merry Christmas". That Jordan Peterson would create content for such an organization tells you a lot about him.</p>
+]]></description>
+<pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/whats-wrong-with-jordan-peterson</guid>
+</item>
+<item>
+<title>All Understanding Is Metaphoric</title>
+<link>https://www.actualized.org/insights/all-understanding-is-metaphoric</link>
+<description><![CDATA[<p></p><p class="video_box"><iframe src="https://player.vimeo.com/video/288111557?title=0&byline=0&portrait=0" width="615" height="345" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></p>
+]]></description>
+<pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/all-understanding-is-metaphoric</guid>
+</item>
+<item>
+<title>An Atheist's Personal Experiences Of God</title>
+<link>https://www.actualized.org/insights/an-atheists-personal-experiences-of-god</link>
+<description><![CDATA[<p>Here's a really good video of a guy who evolved from <a href="https://www.actualized.org/articles/spiral-dynamics-stage-blue" target="_blank">Spiral Dynamics stage Blue</a> to <a href="https://www.actualized.org/articles/spiral-dynamics-stage-orange" target="_blank">stage Orange</a>. Being now at Orange, notice how he falls into the Pre/Trans Fallacy, conflating orthodox religion with transpersonal, transrational consciousness. Notice how his understanding of mystical experience is warped by the stage Orange materialistic, rational, naturalistic paradigm. Notice how he uses the concept of "the brain" to metaphysically ground his entire understanding of reality, without realizing that the brain is also just a personal experience, a conceptual anchor point.</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/_Ro6VwyYO1A?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>You cannot deny the validity of mystical experience by saying "they are just experiences" because EVERYTHING, including the brain, science, reason, and proof, are also just experiences. However you ground yourself in "reality" it will always be through experience. (Until you realize the Groundless Ground.) It does not matter whether your experiences and justifications of those experiences are religious or scientific — they are equally mental constructions.</p>
+<p>Yes, of course, when mystical experiences happen at the stage Blue level of development, the ego-mind interprets them in a limited, orthodox, ego-centric, chauvinistic way. To then re-interpret them via the scientific materialist paradigm is to evolve one stage, but it is to still fundamentally misunderstand what they are.</p>
+<p>What's not being understood here is that the nature of reality is subjective and mind-constructed, and therefore "physical" reality can change if you just change the way you use your mind. This possibility is not taken seriously because Stage Blue and Orange underestimates reality. These stages assume that reality is a fixed, static thing, limited thing — which turns out to be a very mistaken metaphysical assumption.</p>
+<p>Basically every atheist commits this mistake. They take it completely for granted that the metaphysics of modern science is correct and unquestionable. But it isn't! The atheist fails to understand that spirituality isn't about personal experience, it is about metaphysics.</p>
+<p>These kinds of errors are the direct result of our culture's marginalization of metaphysics and epistemology. Because our culture de-emphasizes it, very few people investigate it or take it seriously, believing that "metaphysics has no practical applications". Well, here is your practical application! Lack of metaphysical depth leads to all sorts of fundamental errors in thinking — and what's worse, these errors go completely unnoticed. Because to notice them would require doing metaphysics, which nobody wants to do! Therein lies the tragedy of mankind in the 21st century.</p>
+]]></description>
+<pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/an-atheists-personal-experiences-of-god</guid>
+</item>
+<item>
+<title>Profound Quotes #012</title>
+<link>https://www.actualized.org/insights/profound-quotes-012</link>
+<description><![CDATA[<blockquote>
+<p style="text-align: justify;">"The withdrawal of philosophy into a 'professional' shell of its own has had disastrous consequences. The younger generation of physicists, the Feynmans, the Schwingers, etc., may be very bright; they may be more intelligent than their predecessors, than Bohr, Einstein, Schrödinger, Boltzmann, Mach and so on. But they are uncivilized savages, they lack in philosophical depth."</p>
+</blockquote>
+<p style="text-align: right;">-- Paul Feyerabend</p>
+]]></description>
+<pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/profound-quotes-012</guid>
+</item>
+<item>
+<title>Anekantavada</title>
+<link>https://www.actualized.org/insights/anekantavada</link>
+<description><![CDATA[<p>If you're a seeker of Truth, you need to understand the concept of <a href="https://en.wikipedia.org/wiki/Anekantavada" target="_blank">Anekāntavāda</a>:</p>
+<blockquote><p>"Anekāntavāda ('many-sidedness') refers to the Jain doctrine about metaphysical truths that emerged in ancient India. It states that the ultimate truth and reality is complex and has multiple aspects. According to Jainism, no single, specific statement can describe the nature of existence and the Absolute Truth. This knowledge... is comprehended only by the Arahats (enlightened masters). Other beings and their statements about Absolute Truth are incomplete, and at best a partial truth. All knowledge claims, according to the anekāntavāda doctrine must be qualified in many ways, including being affirmed and denied. The origins of anekāntavāda can be traced back to the teachings of Mahāvīra."</p>
+<p>"The Jain doctrine of anekāntavāda... states that truth and reality is complex and always has multiple aspects. Reality can be experienced, but it is not possible to totally express it with language. Human attempts to communicate is naya, or 'partial expression of the truth'. Language is not Truth, but a means and attempt to express truth. From truth, according to Māhavira, language returns and not the other way around. One can experience the truth of a taste, but cannot fully express that taste through language. Any attempts to express the experience is syāt, or valid 'in some respect' but it still remains a 'perhaps, just one perspective, incomplete'. In the same way, spiritual truths are complex, they have multiple aspects, language cannot express their plurality, yet through effort and appropriate karma they can be experienced."</p>
+<p>"Māhavira's approach to answering all metaphysical philosophical questions was a 'qualified yes'... The Buddha taught the Middle Way, rejecting extremes of the answer 'it is' or 'it is not' to metaphysical questions. The Māhavira, in contrast, taught his followers to accept both 'it is' and 'it is not', with 'perhaps' qualification and with reconciliation to understand the Absolute reality. The Jain doctrine of anekāntavāda, according to Bimal Matilal, states that 'no philosophic or metaphysical proposition can be true if it is asserted without any condition or limitation'."</p>
+<p>"For example... all the following seven predicates must be accepted as true for a cooking pot, according to Matilal:</p>
+<ul>
+<li>from a certain point of view, or in a certain sense, the pot exists</li>
+<li>from a certain point of view, the pot does not exist</li>
+<li>from a certain point of view, the pot exists and does not exist</li>
+<li>from a certain point of view, the pot is inexpressible</li>
+<li>from a certain point of view, the pot both exists and is inexpressible</li>
+<li>from a certain point of view, the pot both does not exist and is inexpressible</li>
+<li>from a certain point of view, the pot exists, does not exist, and is also inexpressible"</li>
+</ul>
+</blockquote>
+<p style="text-align: right;">-- <a href="https://en.wikipedia.org/wiki/Anekantavada" target="_blank">Wikipedia: Anekāntavāda</a></p>
+<p style="text-align: left;">To really understand this is to move into <a href="https://www.actualized.org/articles/spiral-dynamics-stage-yellow" target="_blank">Spiral Dynamics stage Yellow</a> integral Tier 2 cognition, where every perspective is seen as part-true, part-false. This requires letting go of the notion of there being totally wrong and totally right perspectives — a notion which the lower Spiral stages cling to vehemently.</p>
+<p style="text-align: left;">Anekāntavāda is relativism, but it is also so much deeper than conventional notions of relativism because there is an Absolute. It just cannot be encapsulated in finite symbols or thoughts.</p>
+<p style="text-align: left;">The Jains have a really high quality epistemology. It's amazing that Mahavira figured this out 2500 years ago, before the earliest Greek philosophers were even born! Compared to the Hindus the Greeks were savages.</p>
+]]></description>
+<pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/anekantavada</guid>
+</item>
+<item>
+<title>The Amazing Atheist</title>
+<link>https://www.actualized.org/insights/the-amazing-atheist</link>
+<description><![CDATA[<p>A perfect example of how a <a href="https://www.actualized.org/articles/spiral-dynamics-stage-orange" target="_blank">Spiral Dynamics stage Orange</a> ego-mind justifies and defends its atheist, rationalist paradigm:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/qxCvkGuq6oo?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Notice how the Amazing Atheist conflates mysticism with religion and fails to understand that Truth cannot be proven, symbolized, or communicated because a map is never the territory. He conflates actual Truth with linguistic or symbolic "truth".</p>
+<p>It is indeed amazing how paradigm lock works.</p>
+<p>This is a prime example of how closedmindedness and arrogance stymies any further inquiry or research into existential matters.</p>
+<p>A more openminded person would wonder, "What could Hinduism be pointing to that I might be overlooking? Let me go research that."</p>
+<p>Moral of the story is: don't become like this guy.</p>
+]]></description>
+<pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/the-amazing-atheist</guid>
+</item>
+<item>
+<title>Astronaut Enlightenment</title>
+<link>https://www.actualized.org/insights/astronaut-enlightenment</link>
+<description><![CDATA[<p>In the video below, US Apollo Astronaut and 6th man to walk on the moon, Edgar Mitchell, describes his samadhi experience in outer space.</p>
+<p>"The presence of divinity became almost palpable, and I knew that life in the universe was not just an accident based on random processes... The knowledge came to me directly."</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/7UVuzDDTdgs?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Edgar Mitchell later founded the <a href="https://noetic.org/about/what-are-noetic-sciences" target="_blank">Institute of Noetic Sciences</a>, devoted to the study of consciousness. As the website says, "The essential hypothesis underlying the noetic sciences is simply that <em>consciousness matters</em>."</p>
+<p>The point of this post is to help you realize that when the scientific mind penetrates reality deeply enough, the field of science morphs into the field of spirituality. A traditional scientist is just someone whose understanding of the metaphysical structure of reality is so thin that he hasn't realized yet that he IS reality! Oh sure, he knows it intellectually, but not deeply enough, not personally enough that it's flowered into a full-blown spiritual experience.</p>
+<p>Flying into outer space helps to put you in touch with your own universal nature. Which is one of the key reasons why human beings are so fascinated with space exploration and space travel: We want to be Cosmic! But the truth is, we already are Cosmic! We've always been Cosmic! You don't need to fly into outer space to realize this because in fact there is no difference between outer space and inner space. The vacuum of outer space is already here, right now, inside your head! You can fly to the edge of the galaxy and all you will ever find is consciousness. But for a mind thoroughly locked in the materialist paradigm it might take something like flying to the moon to realize its folly. A materialist mind needs an epic material revelation of spirit/oneness/consciousness to break through the lock. Something akin to an angel descending down from the clouds with choir music playing.</p>
+<p>A traditional scientist is a dabbler in reality. Sure, he knows some formulas and he's read a lot of books, but it has not dawned on him yet that the nature of reality is pure, radical subjectivity. So he stands too far aloof from his subject matter. He actually believes that the thing he's studying is separate from himself. He likes to pretend that he is being "objective". How myopic!</p>
+<p>P.S. For you moon-landing conspiracy theorists, this is the most compelling evidence that the moon-landing actually happened. But sadly, if you're a moon-landing conspiracy theorist, understanding spirituality will be way over your head.</p>
+]]></description>
+<pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/astronaut-enlightenment</guid>
+</item>
+<item>
+<title>Catholic Collective Ego</title>
+<link>https://www.actualized.org/insights/catholic-collective-ego</link>
+<description><![CDATA[<p>Here's a really good example of how collective ego works:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/ZgAVX__2Igo?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Notice how your own organization (whichever groups you're a part of) operates under the same basic dynamics. What people misunderstand is that the content of the group's beliefs is largely irrelevant. This is not a Catholic problem, this is a collective ego problem. Collective ego is a meta-structure. Its primary concern is self-preservation, regardless of what "the self" happens to be. It could be a religious self, a political self, a scientific self, a rational self, a gender self, a social justice self, an environmentalist self, etc. The Catholic Church, as a living, evolving organism — like every organism — is in a constant battle to keep itself alive. Because of this it tends to be blind to its own "ecological footprint" — AKA, selfishness.</p>
+<p>The root solution to problems like this is genuine transcendence of ego — by increasing consciousness. Consciousness needs to be increased both at the individual level and at the collective level. But the catch-22 is, the ego does not want to increase consciousness because that means the death of the ego. And hence we have this perpetual battle between "good" and "evil", selfless vs selfish. You can't be completely selfless, or you will die. And you can't be completely selfish, or you will also die. The trick is striking the right balance, which complex organisms like humans and corporations and churches find very challenging to do.</p>
+<p>Most organisms error on the side of selfishness because it is safer and easier. This is reinforced with fear and craving. The fear and craving which rules the Catholic Church also rules you. Which is fundamentally why you are so selfish.</p>
+<p>It would take enormous courage for the Catholic Church to say: "From now on, full transparency". That would be the equivalent of you showing up to school or work naked. It's the last thing you want to do.</p>
+]]></description>
+<pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/catholic-collective-ego</guid>
+</item>
+<item>
+<title>Hofstadter On Analogies &amp; Thinking</title>
+<link>https://www.actualized.org/insights/hofstadter-on-analogies-and-thinking</link>
+<description><![CDATA[<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/vORB92BU7zk?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>A Correction: I want to make a correction to something I said in my <a href="https://www.actualized.org/articles/understanding-sameness-vs-difference" target="_blank">Understanding Sameness vs Difference</a> video. In that video I made a minor point about how Douglas Hofstadter said that <span style="text-decoration: underline;">all</span> thinking boils down to analogy. This was a mischaracterization of his position. Rather, he says that analogy is <span style="text-decoration: underline;">the core</span> of thinking, which is much more reasonable. My apologies for this oversight.</p>
+<p>The only thing I would add to his excellent lecture above is that distinction is the other side of that coin. The core of thinking is both making analogies (seeing samenesses) and making distinctions (seeing differences). Both are crucial and work off each other, like the positive and negative ends of a battery.</p>
+]]></description>
+<pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/hofstadter-on-analogies-and-thinking</guid>
+</item>
+<item>
+<title>Sikhism</title>
+<link>https://www.actualized.org/insights/sikhism</link>
+<description><![CDATA[<p>Did you know that Sikhism is the 5th largest religion in the world?</p>
+<p>Sikhism is larger than Judaism, yet most people have never heard of it.</p>
+<p>Take a few minutes to read what Sikhism is about on the <a href="https://en.wikipedia.org/wiki/Sikhism" target="_blank">Sikhism Wikipedia page</a>.</p>
+<blockquote><p>"In Sikhism, the concept of God is Waheguru, considered Nirankar (shapeless), akal (timeless), and Alakh Niranjan (invisible). The Sikh scripture begins with Ik Onkar, which refers to the 'formless one'."</p></blockquote>
+<p>Notice any similarities to Actualized.org?</p>
+]]></description>
+<pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/sikhism</guid>
+</item>
+<item>
+<title>Profound Quotes #011</title>
+<link>https://www.actualized.org/insights/profound-quotes-011</link>
+<description><![CDATA[<blockquote>
+<p style="text-align: justify;">"The bones connected by joints are at once a unitary whole and not a unitary whole. To be in agreement is to differ; the concordant is the discordant. From out of all the many particulars comes oneness, and out of oneness comes all the many particulars."</p>
+</blockquote>
+<p style="text-align: right;">— Heraclitus</p>
+<p style="text-align: left;">Heraclitus understood <a href="https://www.actualized.org/articles/understanding-sameness-vs-difference" target="_blank">Sameness vs Difference</a>.</p>
+]]></description>
+<pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/profound-quotes-011</guid>
+</item>
+<item>
+<title>The Apeiron Centre</title>
+<link>https://www.actualized.org/insights/the-apeiron-centre</link>
+<description><![CDATA[<p><a href="http://apeironcentre.org/home" target="_blank">ApeironCentre.org</a></p>
+<p>I found this obscure website devoted to the study of infinity. Really cool to see websites like this out there. The author (seen below) really gets it.</p>
+<p>Read the long homepage text. It's got some profound insights there about the nature of reality.</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/tNV22dDnU1k?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+]]></description>
+<pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/the-apeiron-centre</guid>
+</item>
+<item>
+<title>Child Conservation Experiments</title>
+<link>https://www.actualized.org/insights/child-conservation-experiments</link>
+<description><![CDATA[<p>Before you laugh at this child too much, just remember, you used to be this stupid too.</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/gnArvcWaH6I?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>When a child like this is shown a video of himself doing these experiments once he's a few years older, he will deny that this is a video of the real him because in his mind there is no way that he could have been that stupid.</p>
+<p>That's exactly how the ego-mind works. It always denies and disowns its own prior delusions and stupidities, because to admit them would introduce serious doubts about its present sense of reality.</p>
+<p>To pull off a successful self-deception requires that you deny that self-deception is even a thing. Just to admit that self-deception is a serious possibility is already to half escape it.</p>
+<p>Also, any deep insights the ego-mind has into the nature of reality are automatically backwards-rationalized as "obvious" and "self-evident" when in fact they weren't — they were significant and non-trivial discoveries. Which is why people these days are so naive about how science works. They think that discoveries like the orbiting Earth, the moons of Jupiter, germ theory, set theory, xrays, or heavier than air flight were obvious, "rational", and "scientific" when in fact they were considered pseudoscience.</p>
+]]></description>
+<pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/child-conservation-experiments</guid>
+</item>
+<item>
+<title>Ken Wilber On Spiral Politics</title>
+<link>https://www.actualized.org/insights/ken-wilber-on-spiral-politics</link>
+<description><![CDATA[<p>This video was shot over 10 years ago yet look at how well it presaged current political trends.</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/g9IMSnCuspU?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+]]></description>
+<pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/ken-wilber-on-spiral-politics</guid>
+</item>
+<item>
+<title>Profound Quotes #010</title>
+<link>https://www.actualized.org/insights/profound-quotes-010</link>
+<description><![CDATA[<blockquote>
+<p style="text-align: justify;">"Everything that from eternity has happened in heaven and earth, the life of God and all the deeds of time simply are the struggles for Spirit to know itself, to find itself, be for itself, and finally unite itself to itself; it is alienated and divided, but only so as to be able thus to find itself and return to itself."</p>
+</blockquote>
+<p style="text-align: right;">— Georg Hegel</p>
+]]></description>
+<pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/profound-quotes-010</guid>
+</item>
+<item>
+<title>The Supreme Purpose Of Life</title>
+<link>https://www.actualized.org/insights/the-supreme-purpose-of-life</link>
+<description><![CDATA[<blockquote><p>"The Supreme Purpose Of Life Is The Ecstatical Vision Of God</p>
+<p>Thus, in her ascension towards divinity, the soul advances until, having risen above everything that is foreign to her, she alone with Him who is alone, beholds, in all His simplicity and purity, Him from whom all depends, to whom all aspires, from whom everything draws its existence, life, and thought. He who beholds him is overwhelmed with love; with ardor desiring to unite himself with Him, entranced with ecstasy. Men who have not yet seen Him desire Him as the Good; those who have, admire Him as sovereign beauty, struck simultaneously with stupor and pleasure, thrilling in a painless orgasm, loving with a genuine emotion, with an ardor without equal, scorning all the other affections, and disdaining those things which formerly they characterized as beautiful. This is the experience of those to whom divinities and guardians have appeared; they reck no longer of the beauty of other bodies. Imagine, if you can, the experiences of those who behold Beauty itself, the pure Beauty, which, because of its very purity, if fleshless and bodiless, outside of earth and heaven. All of these things, indeed are contingent and composite, they are not principles, they are derived from Him. What beauty could one still wish to see after having arrived at vision of Him who gives perfection to all beings, though himself remains unmoved, without receiving anything; after finding rest in this contemplation, and enjoying it by becoming assimilated to him? Being supreme beauty, and the first beauty, He beautifies those who love Him, and thereby they become worthy of love. This is the great, the supreme goal of souls; this is the goal which arouses all their efforts, if they do not wish to be disinherited of that sublime contemplation the enjoyment of which confers blessedness, and privation of which is the greatest earthly misfortune of earthly misfortunes. Real misfortune is not to lack beautiful colors, nor beautiful bodies, nor power, nor domination, nor royalty. It is quite sufficient to see oneself excluded from no more than possession of beauty. This possession is precious enough to render worthless domination of a kingdom, if not the whole earth, of the sea, or even the heavens — if indeed it were possible, while abandoning and scorning all that (natural beauty), to succeed in contemplating beauty face to face."</p></blockquote>
+<p style="text-align: right;">— Plotinus, The Enneads</p>
+]]></description>
+<pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/the-supreme-purpose-of-life</guid>
+</item>
+<item>
+<title>Merchants Of Doubt</title>
+<link>https://www.actualized.org/insights/merchants-of-doubt</link>
+<description><![CDATA[<p>Here's an excellent documentary about how deception works; I recommend watching the full thing:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/j8ii9zGFDtc?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>As you watch it, stay aware of following:</p>
+<ol>
+<li>Deception is not merely something some "bad" people are doing to you, but an inherent function of ego. Although it may not seem like it, this documentary is really about how YOU deceive yourself.</li>
+<li>Notice how individual ego and collective ego work hand-in-hand.</li>
+<li>Notice how science & ego work hand-in-hand. There is no such thing as science without ego.</li>
+</ol>
+<p>Start to notice how individual ego, collective ego, rationality, science, politics, self-interest, and survival all work together — all working against truth. Because truth is dangerous to the entire enterprise of survival. Survival relies on deception, lying, illusion, and falsehood. This is NOT just something "evil" corporations do! This something YOU do! The very mechanisms that run these "evil" corporations are the very ones you must wrestle with inside yourself as you do self-actualization work. If you find self-actualization work difficult, now you know why these "evil" corporations run amok.</p>
+<p>This is how the devil works. Through you.</p>
+<p>And do not jump to the naive conclusion that "if only these oil companies weren't corrupting the science, science would have the truth." No! Self-deception is operating at every level of the mind. Even if the scientists are right in this case, they are still self-deceived just like the oil companies, just at higher levels. The deception is multi-dimensional. Escaping one deception does not mean you've escaped all levels of deception. For example, just because you've escaped the delusion of religious fundamentalism doesn't mean you've escaped the delusion of rationalism and scientism.</p>
+]]></description>
+<pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/merchants-of-doubt</guid>
+</item>
+<item>
+<title>Materialism</title>
+<link>https://www.actualized.org/insights/materialism</link>
+<description><![CDATA[<p><img class="alignnone size-full wp-image-3829" src="https://www.actualized.org/wordpress/wp-content/uploads/mouse-trap-01.jpg" alt="mouse-trap-01" width="552" /></p>
+]]></description>
+<pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/materialism</guid>
+</item>
+<item>
+<title>Hunter Maats Against Rationalism</title>
+<link>https://www.actualized.org/insights/hunter-maats-against-rationalism</link>
+<description><![CDATA[<p>Here's some advanced stuff which mostly went over Joe Rogan and his audience's head:</p>
+<p>It's worth listening to the whole 3 hour talk.</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/nZJwvRcaBaI?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>What Hunter Maats talks about here is just the tip of the iceberg. He doesn't yet realize how deep it goes. It goes so deep that physical reality itself will collapse once you realize that it was just a cultural, conceptual, egoic construction all along. But that's a topic for another day.</p>
+<p>Maats' critiques of Sam Harris and Richard Dawkins are on point.</p>
+]]></description>
+<pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/hunter-maats-against-rationalism</guid>
+</item>
+<item>
+<title>How Capitalism Is Corrupting Science</title>
+<link>https://www.actualized.org/insights/how-capitalism-is-corrupting-science</link>
+<description><![CDATA[<p>A very interesting discussion about the dirty realities of how science works:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/1on3njRwdA0?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Over the next 50 years, I foresee science becoming more and more biased by capitalistic forces, skewing our overall worldview to one which favors the corporate collective ego.</p>
+<p>The materialist metaphysics that's prevalent in science doesn't just exist because it's reasonable, but because a mystical worldview is fundamentally threatening to business as usual ($$$). The materialist metaphysics helps business earn lots of money, and business re-invests this money back into more materialistic forms of research, creating a vicious circle of materialism, blind to higher consciousness truths.</p>
+<p>So on the surface those people who trust in science (including the scientists themselves) end up thinking that materialism is getting more and more validated when in fact that's only happening because non-materialistic findings are being ignored because they don't feed the capitalist agenda. To put it simply, truth is bad for business.</p>
+<p>Almost everyone knows that religion gets corrupted by ego because that's old news. What's new news is that science gets corrupted by ego in just the same way. The problem with atheists railing against religion is that it makes them blind to parallel dynamics occurring within science. The devil (ego) doesn't care whether your favorite ideology is religion or science. He will find a way to delude you with it all the same.</p>
+<p>Always be skeptical when you hear an ego quoting scientific research as if it were objective fact. People like Sam Harris, Richard Dawkins, Jordan Peterson come to mind here. People like that love to weaponize science to advance their own agendas.</p>
+<p>P.S. Don't make the mistake that I am an enemy of science. Just the opposite. Every time I speak against science it's because I want science to be pure and unbiased. I speak against its corruptions and lack of self-awareness in the same way that Martin Luther spoke against the Catholic Church. But as always, the problem with calling out corruption inside any institution is that one gets seen as an enemy of that institution. Every institution has a collective ego which stubbornly defends itself — warts, corruption, and all.</p>
+]]></description>
+<pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/how-capitalism-is-corrupting-science</guid>
+</item>
+<item>
+<title>How Capitalism Corrupts Science</title>
+<link>https://www.actualized.org/insights/how-capitalism-corrupts-science</link>
+<description><![CDATA[<p>A very interesting discussion about the dirty realities of how science works:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/1on3njRwdA0?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Over the next 50 years, I foresee science becoming more and more biased by capitalistic forces, skewing our overall worldview to one which favors the corporate collective ego.</p>
+<p>The materialist metaphysics that's prevalent in science doesn't just exist because it's reasonable, but because a mystical worldview is fundamentally threatening to business as usual ($$$). The materialist metaphysics helps business earn lots of money, and business re-invests this money back into more materialistic forms of research, creating a vicious circle of materialism, blind to higher consciousness truths.</p>
+<p>So on the surface those people who trust in science (including the scientists themselves) end up thinking that materialism is getting more and more validated when in fact that's only happening because non-materialistic findings are being ignored because they don't feed the capitalist agenda. To put it simply, truth is bad for business.</p>
+<p>Almost everyone knows that religion gets corrupted by ego because that's old news. What's new news is that science gets corrupted by ego in just the same way. The problem with atheists railing against religion is that it makes them blind to parallel dynamics occurring within science. The devil (ego) doesn't care whether your favorite ideology is religion or science. He will find a way to delude you with it all the same.</p>
+<p>Always be skeptical when you hear an ego quoting scientific research as if it were objective fact. People like Sam Harris, Richard Dawkins, Jordan Peterson come to mind here. People like that love to weaponize science to advance their own agendas.</p>
+<p>P.S. Don't make the mistake that I am an enemy of science. Just the opposite. Every time I speak against science it's because I want science to be pure and unbiased. I speak against its corruptions and lack of self-awareness in the same way that Martin Luther spoke against the Catholic Church. But as always, the problem with calling out corruption inside any institution is that one gets seen as an enemy of that institution. Every institution has a collective ego which stubbornly defends itself — warts, corruption, and all.</p>
+]]></description>
+<pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/how-capitalism-corrupts-science</guid>
+</item>
+<item>
+<title>Ken Wilber Explains Integral Spirituality</title>
+<link>https://www.actualized.org/insights/ken-wilber-explains-integral-spirituality</link>
+<description><![CDATA[<p>Here's a fantastic high level overview of spirituality & human cultural evolution:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/H4jcxxJ_0ok?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+]]></description>
+<pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/ken-wilber-explains-integral-spirituality</guid>
+</item>
+<item>
+<title>Spiral Dynamics Super Mario Edition</title>
+<link>https://www.actualized.org/insights/spiral-dynamics-super-mario-edition</link>
+<description><![CDATA[<p>This one is for all you video game fans in the audience. Have you noticed how video games have evolved over the last 40 years?</p>
+<p>See any parallels to how human culture evolved over the last 2000 years?</p>
+<p>Here's a little something I put together:</p>
+<p><a href="https://www.actualized.org/wordpress/wp-content/uploads/spiral-dynamics-super-mario-edition-01.png"><img class="alignnone size-full wp-image-3808" src="https://www.actualized.org/wordpress/wp-content/uploads/spiral-dynamics-super-mario-edition-01.png" alt="spiral-dynamics-super-mario-edition-01" width="615" /></a></p>
+<p>(click to enlarge image)</p>
+<p>Everything is evolving!</p>
+]]></description>
+<pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/spiral-dynamics-super-mario-edition</guid>
+</item>
+<item>
+<title>Strange Loop Meme</title>
+<link>https://www.actualized.org/insights/strange-loop-meme</link>
+<description><![CDATA[<p>The structure of reality in a nutshell:</p>
+<p><img class="alignnone size-full wp-image-3798" src="https://www.actualized.org/wordpress/wp-content/uploads/asian-mind-fuck.jpg" alt="asian-mind-fuck" width="480" height="440" /></p>
+]]></description>
+<pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/strange-loop-meme</guid>
+</item>
+<item>
+<title>Exodus 3:13-14</title>
+<link>https://www.actualized.org/insights/exodus-313-14</link>
+<description><![CDATA[<blockquote>
+<p style="text-align: center;">"Then Moses said to God, 'If I come to the people of Israel and say to them, 'The God of your fathers has sent me to you,' and they ask me, 'What is his name?' what shall I say to them? God said to Moses, "I AM WHO I AM.' And he said, 'Say this to the people of Israel, 'I AM has sent me to you.'"</p>
+</blockquote>
+<p style="text-align: right;">— Exodus 3:13-14</p>
+]]></description>
+<pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/exodus-313-14</guid>
+</item>
+<item>
+<title>Profound Yoda #010</title>
+<link>https://www.actualized.org/insights/profound-yoda-010</link>
+<description><![CDATA[<p><img class="alignnone size-full wp-image-3789" src="https://www.actualized.org/wordpress/wp-content/uploads/yoda-feminism-02.png" alt="yoda-feminism-02" width="615" height="400" /></p>
+]]></description>
+<pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/profound-yoda-010</guid>
+</item>
+<item>
+<title>A Growing Earth?</title>
+<link>https://www.actualized.org/insights/a-growing-earth</link>
+<description><![CDATA[<p>Dragonflies have puzzled me for a long time. You see, they used to have a 2 foot wingspan! (<em>Meganeuradae</em>)</p>
+<p><img class="alignnone size-full wp-image-3738" src="https://www.actualized.org/wordpress/wp-content/uploads/meganeura_01.jpg" alt="meganeura_01" width="615" /></p>
+<p><img class="alignnone size-full wp-image-3739" src="https://www.actualized.org/wordpress/wp-content/uploads/meganeura_02.jpg" alt="meganeura_02" width="615" /></p>
+<p>So have pterodactyls. Can you imagine one of these beasts (<em>Quetzalcoatlus</em>) — the size of a giraffe — flying through the air?</p>
+<p><img class="alignnone size-full wp-image-3741" src="https://www.actualized.org/wordpress/wp-content/uploads/dactyl_02.jpg" alt="dactyl_02" width="237" height="269" /></p>
+<p><img class="alignnone size-full wp-image-3740" src="https://www.actualized.org/wordpress/wp-content/uploads/dactyl_01.jpg" alt="dactyl_01" width="615" /></p>
+<p><img class="alignnone size-full wp-image-3742" src="https://www.actualized.org/wordpress/wp-content/uploads/quetzalcoatlu_01.jpg" alt="quetzalcoatlu_01" width="614" height="390" /></p>
+<p>And finally we have the walking giants, like the <a href="https://www.theatlantic.com/science/archive/2017/08/is-this-really-the-biggest-dinosaur-ever-discovered/536187/" target="_blank"><em>Patagotitan</em></a>, larger than a blue whale.</p>
+<p><img class="alignnone size-full wp-image-3743" src="https://www.actualized.org/wordpress/wp-content/uploads/dino_scale_01.jpg" alt="dino_scale_01" width="615" /></p>
+<p>How could such large creatures exist given Earth's gravity? And why are there no such large animals at all any more? No mammal, no reptile, no bird, no insect even comes close.</p>
+<p>So with that in the back of your mind, now consider this unorthodox idea:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/oJfBSc6e7QQ?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>A few more detailed videos if you want to go down the rabbit hole:</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=swCnPOi5qOU" target="_blank">Explaining the Expanding Earth - With Peter Woodhead</a></li>
+<li><a href="https://www.youtube.com/watch?v=WARitSJub40" target="_blank">Earth Expansion Tectonics Lecture by Dr James Maxlow</a></li>
+</ul>
+<p><img class="alignnone size-full wp-image-3754" src="https://www.actualized.org/wordpress/wp-content/uploads/expansion-tectonics-01.png" alt="expansion-tectonics-01" width="615" /></p>
+<p>Evidence in favor of a growing Earth:</p>
+<ul>
+<li>Continent borders seem to <a href="https://www.youtube.com/watch?v=7018h1a6o_0" target="_blank">line up perfectly</a> at an Earth radius of ~50%.</li>
+<li>Fossil record of monstrously-sized dinosaurs and insects which seem anatomically impossible given Earth current gravity. Why are all of today's creatures far smaller than those of the past? This trend is very noticeable with no good explanation. This is easily accounted for by reducing Earth size by ~50% (not just radius but mass too).</li>
+<li>Why aren't giant dragonflies still a thing? We still have dragonflies today. What is stopping them from growing 2 foot long? Other animals which used to be giant-sized, like giant sharks and giant crocodiles, are also now small. Why?</li>
+<li>It seems that ancient fossils are only found on land. No ancient fossils are found in the oceans.</li>
+<li><a href="https://upload.wikimedia.org/wikipedia/commons/0/08/Age_oceanic_lithosphere%2C_Muller_et_al.%2C_2008.jpg" target="_blank">Dating of the sea floor</a> shows it to be extremely young. The oldest sea floor is only 180 million years old and much of it is newer. There is no billion year old sea floor rock.</li>
+<li>Stretch marks seem to radiate outward as if the Earth was a slowly inflating balloon.</li>
+<li>The theory of plate tectonics is less than 100 years old. It was extremely controversial when first proposed, and rejected by most geologists. It only became accepted by scientific consensus in the 1960's. And to this day the theory contains inconsistencies.</li>
+<li>Plate tectonics and continental drift theory would have us believe that continents slide and rotate around almost randomly, which looks absurd and nonsensical. Why would continents float around and rotate?</li>
+<li>It makes little sense why Pangaea would form on the early Earth. Why would the Earth be so lopsided, with 1/3rd solid continents and the other 2/3rds solid ocean? It makes more sense that the distribution of land and water on the early Earth was uniform.</li>
+<li>There is no strong empirical evidence of subduction (land sliding back inside the Earth's core). No good theory as to why subduction would happen given the density of the underlying rock.</li>
+<li>Evidence for spreading ocean floor is much more significant than evidence for subducting ocean floor. The notion of subduction could easily just be a cop-out hypothesis designed to save the otherwise nonsensical theory of plate tectonics.</li>
+<li><a href="https://www.scientificamerican.com/article/rare-diamond-confirms-that-earths-mantle-holds-an-oceans-worth-of-water/" target="_blank">Newly discovered ringwoodite</a> in the Earth's core contains more locked-in water than the entire surface of the Earth! There is literally enough water in the Earth's core to refill all the Earth's oceans several times over. Think about that. This makes it much more plausible that the oceans leaked out from inside the core over millions of years. Like slowly squeezing a lemon.</li>
+<li>The <a href="https://www.youtube.com/watch?v=tBT8KyWVxj8" target="_blank">moon</a>, <a href="https://www.youtube.com/watch?v=d44Jj_3gp-M" target="_blank">Mars</a>, <a href="https://www.youtube.com/watch?v=zy3_sWF7tv4" target="_blank">Europa</a>, <a href="https://www.youtube.com/watch?v=5Fsg1XJTbKA" target="_blank">Ganymede</a> show similar kinds of stretch marks and signs of growth.</li>
+<li>There is zero direct empirical evidence of what's inside the Earth's core, only vague guesses. Scientists assume they know, but that is merely inference, which can easily turn out wrong. Since scientists have never directly observed the deep inner core of any planet, their models of what's really going on inside are mostly just speculation, which could turn out to be wildly inaccurate. It's conceivable that even if the core was hollow, it would be very difficult for scientists to discover that without actually going there.</li>
+<li>There is zero direct empirical evidence of Pangaea, or how the continents moved, or how they were arranged hundreds of millions of years ago. There are just vague extrapolations based on prevailing continental drift theory, which is precisely the thing being called into question.</li>
+<li>If the Earth used to be smaller, as it grows bigger, its rotation speed will have to slow down to conserve angular momentum. It is well known that the rotation of the Earth has been slowing down, with days getting longer.</li>
+</ul>
+<p>Crazy? True?</p>
+<p>I can't say for sure, but it is an intriguing idea that's just unorthodox enough to slip under the radar of the mainstream scientific establishment. It's just the kind of idea that a closedminded academic would dismiss as "pseudoscience" due to lack of understanding of epistemology and how paradigms work.</p>
+<p>The reason I'm presenting this idea isn't to get you to buy into a conspiracy theory, but to jostle your worldview and get you to really question what you think you know about reality. What do you really know for sure? I want you to start to notice how giant discoveries can lurk right under your nose, hidden in plain sight. Even if this theory turns out to be false, others like it may not. Most people assume that modern science is so advanced that there's just no room for massive blindspots. This is not the case. It's important to start to see that science is much more messy and complex than people are taught. The cutting edge of science is always wrestling with questions of how to properly interpret the data, which anomalies are worth taking seriously and which are not.</p>
+<p>Of course the whole trick here is how do you distinguish between science vs pseudoscience? How do you distinguish between a promising new theory vs a crackpot conspiracy theory? Well... the key point is that it's not as easy as you've been led to believe. All knowledge is nontrivial. There never was a clear demarcation between truth and falsehood, fact and fiction, data and theory. You only assumed there was.</p>
+<p>So for all you Jurassic Park fans, consider the possibility that if dinosaurs were genetically birthed in a lab today, they would fall dead under their own weight.</p>
+<p>My goal here is not to make you feel convinced, but you make you feel doubtful about what you know.</p>
+]]></description>
+<pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/a-growing-earth</guid>
+</item>
+<item>
+<title>Wendover Productions</title>
+<link>https://www.actualized.org/insights/wendover-productions</link>
+<description><![CDATA[<p>You can find some really good educational channels on Youtube. Here's one that I found recently which I really liked. It covers interesting topics, like this:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/FQ2jmrz_xgU?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Check out their other interesting videos: <a href="https://www.youtube.com/user/Wendoverproductions/videos" target="_blank">Wendover Productions</a></p>
+<p>The geography ones are some of the best.</p>
+]]></description>
+<pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/wendover-productions</guid>
+</item>
+<item>
+<title>Cannabis Legalization?</title>
+<link>https://www.actualized.org/insights/cannabis-legalization</link>
+<description><![CDATA[<p>Here's a really intelligent discussion about the ramifications of cannabis legalization:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/Jo9Stp6KvYs?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>I don't recommend pot use because it tends to become addictive. I never use it myself even though it is legal in my state. But I do support nationwide legalization because this war on drugs is absurd, counter-productive, and we need to pave the way for legalization of psychedelics, the prohibition of which is a clear violation of 1st Amendment rights to freedom of religion:</p>
+<blockquote><p>"Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof."</p></blockquote>
+<p style="text-align: right;">— U.S. Constitution, 1st Amendment</p>
+<p>Anyone who claims that psychedelics are not a religious/spiritual tool is inexperienced and ignorant of religious history and numerous scientific studies. If psychedelics are not an exercise of religion, nothing is. In the future, this will be recognized by the Supreme Court and the criminalization of these substances will go down in the history books as yet another example of 21st century barbarism. We ain't out of the Dark Ages yet.</p>
+<p>P.S. Congrats to Canada for <a href="https://www.youtube.com/watch?v=hzTA6PF4Ip4" target="_blank">finally legalizing cannabis</a> this week!</p>
+]]></description>
+<pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/cannabis-legalization</guid>
+</item>
+<item>
+<title>The Jesus Of Siberia</title>
+<link>https://www.actualized.org/insights/the-jesus-of-siberia</link>
+<description><![CDATA[<p>If you're stage Blue or Orange, get ready to be triggered:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/n8BOMqks-gQ?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>That's how all religions start out. The guy seems enlightened as fuck.</p>
+]]></description>
+<pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/the-jesus-of-siberia</guid>
+</item>
+<item>
+<title>Random Insight #001</title>
+<link>https://www.actualized.org/insights/random-insight-001</link>
+<description><![CDATA[<p><strong>Notice, you cannot be objective about a thing which you fear or hate</strong>.</p>
+<p>Corollary: you cannot discover Truth, or embody Truth, so long as there is fear or hate in you. All fear and hate must be surrendered. All! Without exception. Even your fear of the danger of not being able to fear or hate any more.</p>
+<p>"Hate" here isn't limited to violent rage. Hate includes: judgment, criticism, condemnation, demonization, anger, ill-will, vengeance, disgust, desire to destroy, having enemies, and justifications for your hate.</p>
+<p>Mild forms of fear and hate are still fear and hate. Fear and hate can be very subtle.</p>
+<p>All justifications for fear and hate are delusion. All attempts to explain why your fear or hate is valid, "good", necessary, or warranted, are delusion — only doubling down on your position.</p>
+<p>Fear and hate are inversely proportional to Truth. The closer you approach Truth, the closer fear and hate drop to zero. Want to know how close you are to Truth? How much fear and hate is in you on a daily basis?</p>
+<p>Without fear, there is no purpose for hate.</p>
+<p>All fear boils down to fear of injury and death.</p>
+<p>When your fear reaches zero, your experience of love will reach infinity. You will love every single molecule in the universe. A heart-wrenching, super-natural degree of love. Metaphysical love.</p>
+<p>Strength, is your capacity to surrender fear and hatred. Strength is wisdom. The highest wisdom is the surrender of one's life.</p>
+]]></description>
+<pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/random-insight-001</guid>
+</item>
+<item>
+<title>Profound Yoda #009</title>
+<link>https://www.actualized.org/insights/profound-yoda-009</link>
+<description><![CDATA[<p><img class="alignnone size-full wp-image-3769" src="https://www.actualized.org/wordpress/wp-content/uploads/yoda-spiral-dynamics-1.png" alt="yoda-spiral-dynamics" width="615" height="400" /></p>
+]]></description>
+<pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/profound-yoda-009</guid>
+</item>
+<item>
+<title>Esalen Institute Workshops</title>
+<link>https://www.actualized.org/insights/esalen-institute-workshops</link>
+<description><![CDATA[<p>If you've never heard of the <a href="https://www.esalen.org" target="_blank">Esalen Institute</a> — you're in for a treat.</p>
+<p>Esalen was an epicenter for the human potential movement back in the 1960's. Abraham Maslow used to lecture there. It's a bastion for stage Green/Yellow/Turquoise holistic teachings. Very, very New-Agey. Stage Orange people will feel unconformable here. It's located in scenic Big Sur, California, right on the coast, and it's still going strong after some 50 years.</p>
+<p><img class="alignnone size-full wp-image-3761" src="https://www.actualized.org/wordpress/wp-content/uploads/Esalen_01.jpg" alt="Esalen_01" width="615" /></p>
+<p>You'll find some amazing <a href="https://www.esalen.org/learn" target="_blank">workshops and retreats</a> offered here, including yoga, meditation, neo-shamanism, love, relationships, consciousness, psychedelics, and much more. It's very similar to the kind of stuff I teach. You could also meet some exceptional people here who are into self-actualization.</p>
+<p>Worth checking out if you've got some money saved up.</p>
+]]></description>
+<pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/esalen-institute-workshops</guid>
+</item>
+<item>
+<title>Putin's Stage Blue Pandering</title>
+<link>https://www.actualized.org/insights/putins-stage-blue-pandering</link>
+<description><![CDATA[<p>Since we're talking <a href="https://www.youtube.com/watch?v=_5iLt1p-W1U" target="_blank">Spiral Dynamics Stage Blue</a> this week, here's a hilarious example of stage Blue propaganda in action.</p>
+<p>See, Russia, like middle-America, is fairly conservative and traditionalist (stage Blue). This is largely Putin's base. Putin (Red/Orange) is a very shrewd politician and master-manipulator, so he knows that stage Blue gets triggered by stage Green. So what better way to activate his base than by fear-mongering about gays coming to take over traditional Russian culture?</p>
+<p>Does Putin really care about gays? I would bet not. But he knows his conservative base cares very much about defending Russian culture. So he tosses them a bone or two by putting on a strong anti-gay front.</p>
+<p>Watch this masterpiece of Spiral Dynamics manipulation:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/zKD4i-4uTo8?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+]]></description>
+<pubDate>Sun, 17 Jun 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/putins-stage-blue-pandering</guid>
+</item>
+<item>
+<title>Stage Blue Pandering</title>
+<link>https://www.actualized.org/insights/stage-blue-pandering</link>
+<description><![CDATA[<p>Since we're talking <a href="https://www.actualized.org/articles/spiral-dynamics-stage-blue" target="_blank">Spiral Dynamics Stage Blue</a> this week, here's a hilarious example of stage Blue propaganda in action.</p>
+<p>See, Russia, like middle-America, is fairly conservative and traditional (stage Blue). This is largely Putin's base. Putin (stage Red/Orange) is a very shrewd politician and master-manipulator, so he knows that stage Blue gets triggered by stage Green. So what better way to activate his base than by fear-mongering about gays coming to take over traditional Russian culture?</p>
+<p>Does Putin really care about gays? <a href="https://www.youtube.com/watch?v=m8xSZ9Fr4c0" target="_blank">I would bet not.</a> But he knows his conservative base cares very much about defending Russian culture. So he tosses them a bone or two by putting on an anti-gay front. A great way to mobilize Blue is to tell them how gays are taking over the world. Interestingly, here in America we got <a href="https://www.youtube.com/watch?v=_ePLkAm8i2s" target="_blank">Alex Jones doing a similar thing</a>.</p>
+<p>Watch this masterpiece of Spiral Dynamics manipulation:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/zKD4i-4uTo8?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>And then of course we've got examples of a legit stage Blue worldview — not pandering. Take a look a how a deeply stage Blue person — in this case, the former president of Iran — reacts to the idea of gay people. In his reality, gay people do not exist!</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/RUE0tukdr4c?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>That's how significant the Spiral Dynamics stages are!</p>
+<p>Here's <a href="https://www.youtube.com/watch?v=pxH_Rp9VIj8" target="_blank">another example from Mugabe of Zimbabwe</a>.</p>
+<p>In <a href="https://www.youtube.com/watch?v=JZJNIgwubr4" target="_blank">Malawi, gays also don't exist</a>.</p>
+<p><a href="https://www.youtube.com/watch?v=n3ujZmHyfP8" target="_blank">The Dark History Of Gay Conversion Therapy</a></p>
+<p>The reason I focus on this gay issue is because it's a relatively new cultural development, so we get to see cultural evolution resisted in real-time. This is how it's always been, for over 2000 years in every country in the world. Stage Blue resisted every new progressive innovation. Today it is gays. 150 years ago it was the end of slavery. 2500 years ago it was writing. Socrates famously rejected writing as a valid means of doing philosophy on the grounds that it would rot people's memories. (With writing, who needs to have a good memory?, Socrates reasoned.)</p>
+<p>And even though many of today's politicians are themselves beyond stage Blue, a large portion of their constituents is not, so you shouldn't be surprised to see them pandering and riling up that Blue base.</p>
+]]></description>
+<pubDate>Sun, 17 Jun 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/stage-blue-pandering</guid>
+</item>
+<item>
+<title>Fake Moon Landing?</title>
+<link>https://www.actualized.org/insights/fake-moon-landing</link>
+<description><![CDATA[<p>These videos show pretty conclusively that the moon landing was <strong><span style="text-decoration: underline;">NOT</span></strong> faked:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/syVP6zDZN7I?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Additional evidence:</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=zPj60sy9Cfw" target="_blank">Moon Lighting</a></li>
+<li><a href="https://www.youtube.com/watch?v=OM5-BhMNXOI" target="_blank">Moon Gravity</a></li>
+<li><a href="https://www.youtube.com/watch?v=yhab86KoVjU" target="_blank">Flag Waving In Vacuum</a></li>
+<li><a href="https://www.youtube.com/watch?v=VmVxSFnjYCA" target="_blank">Retro-Reflectors</a></li>
+<li><a href="https://www.youtube.com/watch?v=eTYCz4ft8yw" target="_blank">Footprints</a></li>
+<li><a href="https://www.youtube.com/watch?v=L9mYWWHREag" target="_blank">No Wires</a></li>
+</ul>
+<p>Hooray for science!</p>
+<p>Now, if only they would realize the moon is made out of consciousness! That would be a giant leap for mankind ;)</p>
+<p>P.S. <a href="https://www.youtube.com/watch?v=zpkUjrC3-Ds" target="_blank">Astronaut ice cream is a lie!</a></p>
+]]></description>
+<pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/fake-moon-landing</guid>
+</item>
+<item>
+<title>Profound Quotes #009</title>
+<link>https://www.actualized.org/insights/profound-quotes-009</link>
+<description><![CDATA[<blockquote>
+<p style="text-align: center;">"An American President may not marry his own sister (if he wishes to get reelected); an Egyptian Pharaoh had to marry his own sister."</p>
+</blockquote>
+<p style="text-align: right;">— Robert Anton Wilson</p>
+]]></description>
+<pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/profound-quotes-009</guid>
+</item>
+<item>
+<title>Samadhi Movie</title>
+<link>https://www.actualized.org/insights/samadhi-movie</link>
+<description><![CDATA[<p>Here's a nice high-level summation of nonduality. I like how the author integrates dozens of different traditions.</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/AQL6qcGqQ0Y?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+]]></description>
+<pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/samadhi-movie</guid>
+</item>
+<item>
+<title>Profound Batman #008</title>
+<link>https://www.actualized.org/insights/profound-batman-008</link>
+<description><![CDATA[<p><img class="alignnone size-full wp-image-3492" src="https://www.actualized.org/wordpress/wp-content/uploads/batman-religions-disagree.png" alt="batman-religions-disagree" width="615" height="615" /></p>
+]]></description>
+<pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/profound-batman-008</guid>
+</item>
+<item>
+<title>Holy Shit</title>
+<link>https://www.actualized.org/insights/holy-shit</link>
+<description><![CDATA[<p>Imagine someone sprinkled a bag of flawless diamonds into a giant steaming pile of horse manure.</p>
+<p>That's religion in a nutshell.</p>
+<p>What makes religion so persistent is that people refuse to give up the shit because there really are diamonds inside there. It's precisely this mixture of blinding brilliance and utter nonsense that makes religion so sticky. Atheists and rationalists fail to comprehend this dynamic, which is why religion baffles them. The rationalist, try as he might, just cannot satisfactorily explain why religion refuses to go away. It never occurs to him that there could be precious diamonds in the mix.</p>
+<p>The Devil, knowing that most humans have a very weak capacity for discernment, simply hides the Truth in a deep pile of shit, which pretty much ensures it will never be found.</p>
+<p>Think about this: if you had a precious diamond that you didn't want anyone to ever find, where would be the best place to hide it?</p>
+]]></description>
+<pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/holy-shit</guid>
+</item>
+<item>
+<title>May 2018 Solo Retreat - Part 3</title>
+<link>https://www.actualized.org/insights/may-2018-solo-retreat-part-3</link>
+<description><![CDATA[<p></p><p class="video_box"><iframe src="https://player.vimeo.com/video/273657347?title=0&byline=0&portrait=0" width="615" height="345" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></p>
+]]></description>
+<pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/may-2018-solo-retreat-part-3</guid>
+</item>
+<item>
+<title>Profound Quotes #008</title>
+<link>https://www.actualized.org/insights/profound-quotes-008</link>
+<description><![CDATA[<blockquote>
+<p style="text-align: center;">"One is impressed (and depressed) by the appalling sterility of the vast mass of minutiae that science accumulates, and the dearth of integrating principles."</p>
+</blockquote>
+<p style="text-align: right;">— Benjamin Lee Whorf</p>
+]]></description>
+<pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/profound-quotes-008</guid>
+</item>
+<item>
+<title>May 2018 Solo Retreat - Part 2</title>
+<link>https://www.actualized.org/insights/may-2018-solo-retreat-part-2</link>
+<description><![CDATA[<p></p><p class="video_box"><iframe src="https://player.vimeo.com/video/273044255?title=0&byline=0&portrait=0" width="615" height="345" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></p>
+]]></description>
+<pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/may-2018-solo-retreat-part-2</guid>
+</item>
+<item>
+<title>The God Debate</title>
+<link>https://www.actualized.org/insights/the-god-debate</link>
+<description><![CDATA[<p>Here's an interesting debate between Jordan Peterson (theist) vs Matt Dillahunty (atheist). I usually don't like listening to debates because the truth of the matter never comes to light, but this one was about as good as debates get on this thorny topic. Of course the truth still didn't come out. Not even close. Both sides fundamentally misunderstand what God is. In fact, neither side actually defined what God is in nearly 2 hours of talking! Rather absurd. But still eye-opening to watch just to see the epistemic mistakes being made. Interestingly, although Matt Dillahunty seems to make more sense and be more "reasonable", Peterson is closer to the truth, although still wrong in many ways.</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/FmH7JUeVQb8?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>The problem is that neither man has actually become conscious of God, so both are speaking about a topic they have virtually no experience with. Peterson has come close, but not deep enough to really understand what God is, why it is, and what the ramifications are. Neither of them take seriously the possibility of direct consciousness of God. Peterson comes close (he mentions mystical experiences and psilocybin), but still too indirect about it. The whole debate is beating around the bush.</p>
+<p>So I decided to do a little analysis of where each man goes wrong and where each man is right. Not to ridicule or judge them, but to help onlookers get some real traction on this God issue. Otherwise the debate is a total waste of time. You will listen to it, but you won't actually make any progress towards understanding God, or the numerous subtle mistakes the mind makes when thinking about God. So watch the debate, and then read this analysis.</p>
+<p>Where Matt Dillahunty is wrong:</p>
+<ul>
+<li>God = Reality. You are misunderstanding what the word "God" is pointing to. God is not a bearded man in the clouds.</li>
+<li>God is not a belief or concept, God is consciousness. Consciousness is infinite and formless so you cannot grasp it with mind or language or science.</li>
+<li>God is empirical, but because God is Nothingness AND equivalent to reality itself, it is devoid of attributes and IS reality itself! So the "proof" you seek is your own existence.</li>
+<li>Don't confuse "God is Nothingness" with "God does not exist", as if it's a validation of atheism. Nothingness exists. Atheism is wrong.</li>
+<li>Atheism is a religion. It's a secular, rational ideology. So by going from fundamentalist Christian to atheist, you merely changed the content of your religion.</li>
+<li>God is: consciousness, existence, Being, Nothingness, Absolute Infinity, YOU!, infinite intelligence, infinite power, eternal, omnipresent</li>
+<li>God is not rational and cannot be "made sense of" because reality is an infinite strange loop.</li>
+<li>You can become directly conscious of God.</li>
+<li>God cannot be "proven" objectively because reality is subjective. In the same way that you cannot prove that you exist without appeal to subjectivity. Subjectivity is not a bad word, it is not a mistake. It's fundamental to reality. There is no reality beyond subjectivity.</li>
+<li>Mankind has understood what consciousness is and what God is, very clearly, for over 5000 years. The problem is that the mind cannot grasp it.</li>
+<li>Science cannot be done without language. And language cannot grasp being because it is a 2nd order thing, therefore language cannot grasp God.</li>
+<li>You've turned skepticism into a dogma, falling into the very same trap from which you think you've escaped when you left fundamentalist Christian religion.</li>
+<li>What you believe morally is largely irrelevant, what matters is your level of consciousness. The reason you can be an atheist and not kill people is because you're at Spiral Dynamics stage Orange consciousness. Creating a moral humanist code is irrelevant. Consciousness is the overriding factor. If you give a humanist moral code to stage Red or Blue consciousness, they will not follow it. Humanism is only possible at stage Orange or above.</li>
+<li>Study Spiral Dynamics and realize that you are stuck in classic stage Orange consciousness. Rationalism stuck inside itself.</li>
+<li>True spirituality isn't static like fundamentalist religion. True spirituality is free of dogma, free of beliefs — even moreso than skepticism. Skepticism taken to its ultimate conclusion becomes spirituality and reveals God. But you're not seeing that because you're not being skeptical enough! Skepticism goes full-circle, but you gotta take it MUCH deeper. Start doubting whether objective reality exists.</li>
+<li>Let go of atheism, skepticism, rationalism, science, and your judgments about mysticism. It's okay. You'll be much better off. Your consciousness will skyrocket.</li>
+<li>There are not multiple gods, there is only one God, because it is Absolute Infinity, so nothing can be outside it.</li>
+<li>There are higher levels of consciousness which you have never accessed which will recontextual what you call "physical reality".</li>
+<li>Consciousness is not a product of the brain, the brain is a creation within consciousness.</li>
+<li>The brain does not exist. It is a hallucination within consciousness. Consciousness exists without need of brains.</li>
+<li>You misunderstand psychedelic experiences because you are interpreting them within the materialist paradigm. That is, you assumes an objective external reality exists.</li>
+<li>Your use of skepticism (as Peterson quite brilliantly points out) is incomplete. You are not being skeptical enough about rationality, skepticism, materialism, and pragmatism.</li>
+<li>We are not physical creatures in a physical reality (explicit axiom made by Dillahunty) which is demonstrably false.</li>
+<li>Conflation of Spiral Dynamics stage Purple & Blue religion with stage Turquoise mysticism. Fundamentalist Christianity is being confused with mysticism and nonduality.</li>
+<li>Misunderstanding of the origin of religion.</li>
+<li>Consciousness is NOT a biological phenomena.</li>
+<li>You should be much more skeptical about the boundaries your mind draws between objects. They have no objective reality.</li>
+<li>Science has never proven the existence of an objective external world. All scientific measurements are relative to the instrument used, and relative to your consciousness.</li>
+<li>You should be much more skeptical about science and the materialist paradigm.</li>
+<li>There is no acknowledgment that atheist/skepticism/rationalism constitute a paradigm — one paradigm out of infinitely many.</li>
+<li>Lack of experience with psychedelics. A few LSD trips is NOT going to cut it, especially for a hardcore rationalist/skeptic like you because you're framing everything in the context of "physical universe, physical brain". The point of psychedelics is to use them to help you to undermine this materialist context.</li>
+<li>Misunderstanding of mystical experience. You describe your own mystical experience, but I would not call that a mystical experience at all. That's like a drop in the ocean. You need to go much deeper. A mystical experience is not merely "some nice feeling one gets in a passionate church congregation". There are many depths of mystical experience, and what you described is weak-sauce. Not even 1% depth.</li>
+<li>Lack of understanding that reality/truth cannot be symbolized or captured via language or concepts.</li>
+<li>Reality absolutely cannot be described with a set of true/false proposition (as Dillahunty claims). This is what the Logical Positivists tried to do in the early 1920's and their efforts were completely shattered by Quine, quantum mechanics, Godel's incompleteness theorem, post-modernism, chaos theory, and developments within philosophy of language, philosophy of science, and epistemology. Wittgenstein tried to do what Dillahunty claims, and latter in his life he admitted it was an untenable and naive idea. Peterson was correct in asking Dillahunty, "Are you sure you want to go there?" Dillahunty shows a lack of familiarity with the last 100 years of philosophy of science & epistemology.</li>
+<li>Reality is not causal. Cause and effect do not hold at higher levels of consciousness.</li>
+<li>Science is as much a hallucination as the strawberry he hallucinated on LSD.</li>
+<li>The point of psychedelics is not that you believe the hallucinations, but that you realize that EVERYTHING is a hallucination, including you sitting there right now.</li>
+<li>Sam Harris is wrong about God. He is not awake. Please stop citing him as an authority.</li>
+<li>Death is a conceptual hallucination. Be more skeptical about birth and death.</li>
+<li>There is no meaning or value to survival. Survival and life is not better than death. Peterson did a great job of pushing Dillahunty on this point. Peterson was right.</li>
+<li>The purpose of life is not survival. Life has no purpose. Survival or self-preservation is completely irrational and one should be very skeptical about the mind's desire for self-preservation. You cannot understand Truth so long as you are attached to self-preservation and survival.</li>
+<li>Pragmatism isn't a feature, it's a bug.</li>
+<li>There is no such thing as reality without consciousness.</li>
+<li>Matt Dillahunty is God. The problem is that your present level of consciousness keeps your stuck within the ego-mind.</li>
+<li>Mystical experiences are not "merely subjective" — they are not "experiences" at all. They are Absolute consciousness.</li>
+<li>Science and skepticism are hallucinations within a dream. It is possible to awaken from them.</li>
+<li>Dude, you need some 5-MeO-DMT up your ass ;)</li>
+<li>Religion is NOT about morality, or society, or feeling better, or belief — religion is about METAPHYSICS.</li>
+<li>How do you know that you exist? You should be much more skeptical about this. Try to prove that you exist and see what happens.</li>
+<li>Evolution is not in contradiction with God. God is infinitely evolving.</li>
+<li>The distinction between "natural" and "supernatural" is completely arbitrary and bogus. Everything is natural. Everything is supernatural. Your very existence is supernatural. You're just used to it, so you call it "physical" or "natural".</li>
+<li>Likewise, the distinction between "physical" and "spiritual" is pure nonsense. Everything is spiritual. Everything is consciousness. Consciousness renders physicality in the same way that a movie screen renders a concrete wall or a video game renders a solid floor. Solidity and physicality are not features of reality, they are a relationship between apparent objects within consciousness.</li>
+<li>"Mystical" isn't a bad thing, it's a good thing. Reality is fundamentally mystical. Quantifying and modeling reality, as science likes to do, does not remove its mysticism. It just makes you take it for granted. Everything is in fact mystical if you bother to examine it closely.</li>
+<li>You need to study more serious nondual teachings like: Zen, Buddhism, Tantra, Kriya yoga, Sufism, Christian mysticism, etc.</li>
+<li>All religion is based on truth, the problem is, the Truth is so radical the ego-mind cannot bear it, so it quickly corrupts it into silly myths, beliefs, rituals, customs, and dogmas. These days, after thousands of years, most religious teachings are bullshit, but they were originally based on Absolute Truth.</li>
+<li>Metaphysics comes prior to science or physics, such that if your metaphysics is wrong (and it is) then your science and physics will never unravel the essence of existence, and your science will be crippled until you go back and get your metaphysics right.</li>
+<li>Science has never proven the existence of: 1) an external objective world, 2) the self, 3) boundaries between objects, 4) the universal validity of reason. So why aren't you skeptical about all those?</li>
+</ul>
+<p>Where Matt Dillahunty is right:</p>
+<ul>
+<li>Fundamentalist Christians are nutcases and you were right to leave that tradition.</li>
+<li>You are a legit atheist. Peterson should take your word for it.</li>
+<li>Atheists don't have to be immoral murders and thieves. As long as an atheist is sufficiently conscious, he will not be too selfish/evil.</li>
+<li>Skepticism is a good impulse. (But it must be taken all the way, which you are not doing.)</li>
+<li>Survival and pragmatism runs the show. (But there is something beyond survival and pragmatism, which you are not yet aware of.)</li>
+<li>Humanism is good. It's better than what came before it. (But mysticism is even better!)</li>
+<li>Throwing Sam Harris off the stage is a good intuition ;)</li>
+</ul>
+<p>Where Jordan Peterson is wrong:</p>
+<ul>
+<li>Morality is a human invention. Evil does not exist. Bad does not exist. Meaning does not exist. Value does not exist. (This is Peterson's biggest mistake. These assumptions corrupt his entire understanding).</li>
+<li>Morality comes from consciousness.</li>
+<li>Religion is not about meaning, goodness, morality, creating a sane society, or psychology — religion is about METAPHYSICS.</li>
+<li>Dillahunty is a true atheist. It is silly to deny Dillahunty's atheism.</li>
+<li>The evils of Marxism have little to do with atheism. Evil comes from lack of consciousness or selfishness, NOT atheism. Lack of consciousness and selfishness is independent of one's religious beliefs. A religious person can be just a "evil" (selfish) as an atheist.</li>
+<li>God is infinite degrees of freedom. Infinite freedom means infinite "evil", it's inevitable, so stop resisting it. Marxism was necessary. Post-modernism was necessary.</li>
+<li>Society will not fall part without religion. Stop worrying about society devolving into chaos. There is a greater intelligence at work. So relax.</li>
+<li>Please study Spiral Dynamics. You are resisting aspects of stage Green, which is holding you back.</li>
+<li>The Marxism and Stalinism of the 20th century was Spiral Dynamics stage Blue, not Green! You feel threatened by the dangers of excessive Green, but Green is not that dangerous. What you should really worry about (if you want to worry) are the excesses of stage Blue. The Nazi's, Marxists, and Stalinist's of the 20th century which lead to tens of millions of deaths were not modern SJWs, they were stage Blue. Stage Blue, in excess, leads to authoritarian states (Hitler, Stalin, Mussolini, Roman Empire, British Empire, etc.). Modern soy-drinking SJWs are not going to form an authoritarian state. So you don't have to defend against this with God.</li>
+<li>God and the devil are the same thing. God is the devil because call is everything. So God loves both good and evil equally, which in effect converts all evil into good. In God's eyes, there is no such thing as evil. Evil is a selfish, egoic reaction against things in the world which would threaten your survival.</li>
+<li>It is possible to be a moral atheist. It is possible to a "good", humane atheist. Atheism does not mean you will be a murderer.</li>
+<li>BEING is far superior to meaning. Drop your attachment and clinging to meaning, goodness, and value. Goodness is the natural state of BEING once the concept of "bad" is eradicated.</li>
+<li>Nihilism isn't a bad thing, it must be fully embraced until it goes full-circle into divinity.</li>
+<li>True morality comes from a complete surrender of ego and mind, such that there is nothing left to defend. No intellectual positions.</li>
+<li>Too much conceptualizing, too much academic literature have created a wall between you and God.</li>
+<li>If you want to really follow in the footsteps of Jesus, surrender all judgment. Especially all intellectual, academic judgment.</li>
+<li>You are still taking intellectual positions, when you need to start surrendering them to move closer to God.</li>
+<li>You are still in reaction against elements of Spiral Dynamics stage Green and stage Orange. Green must be surrendered to, not criticized.</li>
+<li>Jordan Peterson is God. The problem is that your present level of consciousness keeps you stuck within ego-mind.</li>
+<li>Dude, stop playing the academic game. You need: meditation, yoga, self-inquiry, 5-MeO-DMT. You are very close to grasping God, but you first need to stop waging all these intellectual wars. Stop reading books. Stop arguing.</li>
+<li>God is not a psychological issue, God is a metaphysical issue. You cannot get to God through psychology, or philosophy, or literature.</li>
+<li>Study more serious nondual teachings. What you're really after isn't Christianity or religion, you're after Nonduality, Awakening, Enlightenment. It's very difficult to get enlightened by studying Christian books. Christian books tend to be very corrupt, confusing, and misleading. Turn to more pure sources, then you can return to Christianity and fully understand it. The corruption is very easy to filter out once you've awoken a few times.</li>
+<li>Let go of morality, good/evil, right/wrong, Christianity, academia, and judgment about post-modernism. It's okay. You'll be much better off. Your consciousness will skyrocket.</li>
+<li>There is a palpable bitterness & anger which sours your message. Try doing some shadow work on it, or yoga, or psychedelics. Jesus' most important demonstration was embodiment of love. Your work would benefit enormously if your tone was more loving, less hostile, less aggrieved, less serious.</li>
+<li>Don't take your worldview so seriously. It's all ultimately conceptual and meaningless. But you are on the right track and closer to awakening than Matt Dillahunty.</li>
+<li>Watch out, your work is sometimes being used to empower Spiral Dynamics stage Blue people, which could create the very authoritarianism which you worry about.</li>
+<li>Religion is not about metaphor or myth, it is about METAPHYSICS. The reason religions all around the world use metaphor and myth is because BEING/Truth/Absolute/Nothingness/Infinity cannot be symbolized. Mystical experiences are "direct", which means nothing about them can be said. Truth is prior to language. Thus metaphors and myths are employed.</li>
+</ul>
+<p>Where Jordan Peterson is right:</p>
+<ul>
+<li>God exists, and this is no mere belief or speculation.</li>
+<li>Without consciousness, there is no reality or objective world.</li>
+<li>Consciousness is deeply mysterious, irreducibly so. Consciousness is fundamental.</li>
+<li>Consciousness is not localized to the head or brain. The entire universe is consciousness.</li>
+<li>Science does not have an account of consciousness, not even close, not even partially, not even in theory.</li>
+<li>Atheists make many groundless assumptions about reality and take many axioms on faith. Atheism itself is an act of faith. Reason is an act of faith. There is no reason why you should trust reason. In fact, there are many reason why you should distrust reason. Reason is weaponized by the ego-mind to for the purpose of self-preservation. Reason doesn't care about truth.</li>
+<li>The world cannot be boiled down to a set of true/false propositions (as Matt Dillahunty claims).</li>
+<li>Psilocybin is the real deal and psychedelics should be taken seriously. (Try some 5-MeO for an even realer deal ;)</li>
+<li>Mystical experiences are to be taken seriously. They are far more than just "experiences".</li>
+<li>Sam Harris is wrong.</li>
+<li>It is not obvious that killing oneself is such a bad thing.</li>
+<li>Self-preservation is unreasonable. There is no reason to live a good life or to be moral.</li>
+<li>It is true that God is etched into the heart of every atheist, because every atheist IS in fact God! He just doesn't realize it yet.</li>
+<li>Skepticism must be taken all the way. Nothing is self-evident to the true skeptic.</li>
+<li>Rationality is a tool of the ego, and will often produce evil.</li>
+<li>Those left-brain vs right-brain studies are legit and important. The left-brain is involved in symbolic, linear thinking whereas the right-brain is involved in non-symbolic, intuitive, non-linear thinking. The left-brain must become subordinate to the right-brain if one wishes to discover the ultimate existential truths about life. The left-brain serves the ego, so anything it says regarding truth must be suspect.</li>
+</ul>
+<p>If I was participating in this debate, the first words out of my mouth would be: "Everything in this debate room is God. You are God! God is Nothing and Everything. God is not a bearded man in the sky, God is consciousness. It is possible to become conscious of what consciousness is. Religion is not a matter of belief or old Bible stories. The origin of religion is the direct consciousness of consciousness." Okay, now we can have a productive conversation. Without such a frame, the discussion will devolve into vague intellectual abstractions, as it did.</p>
+]]></description>
+<pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/the-god-debate</guid>
+</item>
+<item>
+<title>May 2018 Solo Retreat - Part 1</title>
+<link>https://www.actualized.org/insights/may-2018-solo-retreat-part-1</link>
+<description><![CDATA[<p>I'm back!</p>
+<p>I'll be posting 3 videos of my retreat here on the blog. Here is part 1.</p>
+<p></p><p class="video_box"><iframe src="https://player.vimeo.com/video/272706026?title=0&byline=0&portrait=0" width="615" height="345" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></p>
+]]></description>
+<pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/may-2018-solo-retreat-part-1</guid>
+</item>
+<item>
+<title>Hawaii Late Night Insights</title>
+<link>https://www.actualized.org/insights/hawaii-april-2018-late-night-insights</link>
+<description><![CDATA[<p></p><p class="video_box"><iframe src="https://player.vimeo.com/video/266992104?title=0&byline=0&portrait=0" width="615" height="345" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></p>
+]]></description>
+<pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/hawaii-april-2018-late-night-insights</guid>
+</item>
+<item>
+<title>Exploring Psychedelics Conference 2018</title>
+<link>https://www.actualized.org/insights/exploring-psychedelics-conference-2018</link>
+<description><![CDATA[<p>The <a href="http://www.exploring-psychedelics.org" target="_blank">Exploring Psychedelic Conference</a> is almost here! Learn about cutting-edge research and developments in the field of psychedelics. Featuring world-renowned experts in the field. It's a free event. A great chance to network.</p>
+<p>It's held on May 24-25 in Ashland, Oregon. Organized by Martin Ball.</p>
+<p>I was thinking of attending, but I'll be in the middle of my 30-day meditation challenge. So maybe next year for me.</p>
+]]></description>
+<pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/exploring-psychedelics-conference-2018</guid>
+</item>
+<item>
+<title>Solitary Confinement Documentary</title>
+<link>https://www.actualized.org/insights/solitary-confinement-documentary</link>
+<description><![CDATA[<p>Could you handle a year in solitary confinement?</p>
+<p>Think of the spiritual growth possibilities! ;)</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/glS0ApOAaCw?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+]]></description>
+<pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/solitary-confinement-documentary</guid>
+</item>
+<item>
+<title>Hawaii Retreat Intro</title>
+<link>https://www.actualized.org/insights/hawaii-retreat-intro</link>
+<description><![CDATA[<p></p><p class="video_box"><iframe src="https://player.vimeo.com/video/266766741?title=0&byline=0&portrait=0" width="615" height="345" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></p>
+]]></description>
+<pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/hawaii-retreat-intro</guid>
+</item>
+<item>
+<title>Mindfucked In Hawaii</title>
+<link>https://www.actualized.org/insights/mindfucked-in-hawaii</link>
+<description><![CDATA[<p></p><p class="video_box"><iframe src="https://player.vimeo.com/video/265940181?title=0&byline=0&portrait=0" width="615" height="345" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></p>
+<p>No new Youtube video this week. Taking time to integrate Hawaii and deciding how to proceed with life.</p>
+]]></description>
+<pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/mindfucked-in-hawaii</guid>
+</item>
+<item>
+<title>Narcissistic Personality Disorder</title>
+<link>https://www.actualized.org/insights/narcissistic-personality-disorder</link>
+<description><![CDATA[<p>What most citizenry doesn't realize is that the world is run by people with <a href="https://www.psychologytoday.com/us/conditions/narcissistic-personality-disorder" target="_blank">narcissistic personality disorder</a>. It's really simple why the world is so crazy. The leaders of business, media, and government are often (not always) megalomaniacs. This can be hard to understand for people who are not megalomiacs, or who've have no direct experience with megalomaniacs. The assumption of "normal" people tends to be that "we are all basically the same", but that is not the case. The psyche of a megalomaniac is not the same as that of a "normal" person. It can be quite unreal to experience megalomania up close. It's an odd admixture of hunger for power, attention-whoring, deep insecurity, paranoia, self-delusional confidence, and lack of empathy. What makes this combination especially dangerous is the lack of empathy component.</p>
+]]></description>
+<pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/narcissistic-personality-disorder</guid>
+</item>
+<item>
+<title>Osho Documentaries</title>
+<link>https://www.actualized.org/insights/osho-documentaries</link>
+<description><![CDATA[<p>Here are two great documentaries about Osho's cult in Oregon.</p>
+<p>This is a great, detailed object lesson in <a href="/articles/understanding-islam" target="_blank">Collective Ego</a>. Taking spirituality/enlightenment "mainstream" is much trickier than it first seems. Because it always gets corrupted by ego, power, greed, sex, and politics. Being enlightened is NOT ENOUGH if you want to run a healthy spiritual community. A much deeper and wider set of skills is required, which Osho and his leaders did not have. Conscious leadership is a whole nother ballgame beyond personal enlightenment.</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/hBLS_OM6Puk?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/Gwx9nqknu-c?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+]]></description>
+<pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/osho-documentaries</guid>
+</item>
+<item>
+<title>Profound Quotes #007</title>
+<link>https://www.actualized.org/insights/profound-quotes-007</link>
+<description><![CDATA[<blockquote>
+<p style="text-align: center;">"Be melting snow. Wash yourself of yourself."</p>
+</blockquote>
+<p style="text-align: right;">— Jalal ad-Din Rumi</p>
+]]></description>
+<pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/profound-quotes-007</guid>
+</item>
+<item>
+<title>Profound Yoda #008</title>
+<link>https://www.actualized.org/insights/profound-yoda-008</link>
+<description><![CDATA[<p><img class="alignnone size-full wp-image-3685" src="https://www.actualized.org/wordpress/wp-content/uploads/yoda-jihadi.png" alt="yoda-jihadi" width="615" height="400" /></p>
+]]></description>
+<pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/profound-yoda-008</guid>
+</item>
+<item>
+<title>Profound Batman #007</title>
+<link>https://www.actualized.org/insights/profound-batman-007</link>
+<description><![CDATA[<p><img class="alignnone size-full wp-image-3484" src="https://www.actualized.org/wordpress/wp-content/uploads/batman-how-is-that-possible.png" alt="batman-how-is-that-possible" width="615" height="615" /></p>
+]]></description>
+<pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/profound-batman-007</guid>
+</item>
+<item>
+<title>Essence Of Meditation By David Hawkins</title>
+<link>https://www.actualized.org/insights/the-essence-of-meditation-by-david-hawkins</link>
+<description><![CDATA[<p>Cuts straight to the bone:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/G_eK-R9EDOk?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+]]></description>
+<pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/the-essence-of-meditation-by-david-hawkins</guid>
+</item>
+<item>
+<title>A Society Built On Psychedelics</title>
+<link>https://www.actualized.org/insights/a-society-built-on-psychedelics</link>
+<description><![CDATA[<p>What many Westerns do not appreciate is that there exist societies built entirely on psychedelics. Societies in which EVERY member has direct psychedelic experience with the spiritual world. In such a society, when someone mentions "spirits" it is not a dogma or superstition — they have an actual reference experience to which that word points, very much the opposite of the West.</p>
+<p>Such societies still exist in remote regions of South America and Africa.</p>
+<p>One native tribe in Ecuador — <a href="https://en.wikipedia.org/wiki/Shuar" target="_blank">the Shuar</a> — has a special psychedelic brew for babies, another one for children, another one for adults, and another one for their hunting dogs!</p>
+<p>As another example, the Bwiti tribe in Gabon, Africa, uses the extremely powerful psychedelic root bark Iboga in a similar way. It's not a secret reserved for reclusive shamans. Everyone in the tribe participates. Here's some footage to give you an idea:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/3s6xiDEqsjU?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>This is what true self-help looks like, what true psychotherapy looks like, what true philosophy looks like, what true religion looks like.</p>
+<p>Just imagine how different Western society would be if every baby born from today onward was given psychedelics and every teen required to go on a psychedelically-fueled vision question.</p>
+<p>Actualized.org would be out of business. It's because Western society doesn't have these kinds of practices any more that we have so much neurosis, so many directionless people, and the need for Actualized.org and self-help.</p>
+<p>Just some food for thought.</p>
+<p>P.S. Do NOT try Iboga by yourself! Consuming it can be lethal and the trips can be hellish and last for days. That video was only shown to get across how native tribes do psychedelics. This is not something for you to emulate in your living room. Consider yourself warned.</p>
+]]></description>
+<pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/a-society-built-on-psychedelics</guid>
+</item>
+<item>
+<title>Myers-Briggs On Pinterest</title>
+<link>https://www.actualized.org/insights/myers-briggs-on-pinterest</link>
+<description><![CDATA[<p>Here's a fun exercise for those who know their <a href="https://www.16personalities.com/personality-types" target="_blank">Myers-Briggs personality type</a>.</p>
+<p>Go to Google.com and search your personality type like this: "pinterest INTP" or "pinterest ESTJ", and see what kind of cool stuff comes up.</p>
+<p>That's it!</p>
+<p><a href="https://www.pinterest.com/nansclark/intp/" target="_blank">Here's an example for INTP</a></p>
+<p>(If you don't know your personality type, you can take the free test at the link above.)</p>
+]]></description>
+<pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/myers-briggs-on-pinterest</guid>
+</item>
+<item>
+<title>Profound Quotes #006</title>
+<link>https://www.actualized.org/insights/profound-quotes-006</link>
+<description><![CDATA[<blockquote><p>"The masses have never thirsted after the truth. Whoever can supply them with illusions is easily their master; whoever attempts to destroy their illusions is always their victim."</p></blockquote>
+<p style="text-align: right;">— Gustave Le Bon</p>
+]]></description>
+<pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/profound-quotes-006</guid>
+</item>
+<item>
+<title>Everest: Beyond The Limit</title>
+<link>https://www.actualized.org/insights/everest-beyond-the-limit</link>
+<description><![CDATA[<p>Here's an amazing documentary which tracks a group of modern climbers as they attempt to summit Everest. One of my favorite reality TV shows that I've ever seen.</p>
+<p>There are 3 seasons.</p>
+<ul>
+<li><a href="http://amzn.to/2ERjCQ5" target="_blank">Season 1</a></li>
+<li><a href="http://amzn.to/2ENijpj" target="_blank">Season 2</a></li>
+<li><a href="http://amzn.to/2EQViSk" target="_blank">Season 3</a></li>
+</ul>
+<p>This is the kind of TV that I love these days.</p>
+<p>I watched this documentary a long time ago and it opened my eyes about Everest. It's incredible what these climbers go through. You're in for a treat.</p>
+]]></description>
+<pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/everest-beyond-the-limit</guid>
+</item>
+<item>
+<title>Gödel On Materialism</title>
+<link>https://www.actualized.org/insights/godel-on-materialism</link>
+<description><![CDATA[<blockquote>
+<p style="text-align: left;">"The population [of the world is divided] into two classes: the workers and the intellectuals. The rulers find it hard to manipulate the population: so they use materialism to manipulate the intellectuals and use religion to manipulate the workers. Before [they] can conquer the world, they will have to have some rational religion... The founders of science were not atheists or materialists. Materialists began to appear only in the second half of the 18th century."</p>
+</blockquote>
+<p style="text-align: right;">-- Kurt Gödel</p>
+]]></description>
+<pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/godel-on-materialism</guid>
+</item>
+<item>
+<title>On Your Deathbed, Total Consciousness</title>
+<link>https://www.actualized.org/insights/on-your-deathbed-total-consciousness</link>
+<description><![CDATA[<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/X48G7Y0VWW4?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+]]></description>
+<pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/on-your-deathbed-total-consciousness</guid>
+</item>
+<item>
+<title>Profound Quotes #005</title>
+<link>https://www.actualized.org/insights/profound-quotes-005</link>
+<description><![CDATA[<blockquote>
+<p style="text-align: center;">"Don't just blindly believe quotes you see on the internet."</p>
+</blockquote>
+<p style="text-align: right;">-- Abraham Lincoln</p>
+]]></description>
+<pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/profound-quotes-005</guid>
+</item>
+<item>
+<title>Profound Yoga #007</title>
+<link>https://www.actualized.org/insights/profound-yoga-007</link>
+<description><![CDATA[<p><img class="alignnone size-full wp-image-3463" src="https://www.actualized.org/wordpress/wp-content/uploads/yoda-fucked-up-skepticism.png" alt="yoda-fucked-up-skepticism" width="615" height="400" /></p>
+]]></description>
+<pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/profound-yoga-007</guid>
+</item>
+<item>
+<title>Profound Yoda #007</title>
+<link>https://www.actualized.org/insights/profound-yoda-007</link>
+<description><![CDATA[<p><img class="alignnone size-full wp-image-3463" src="https://www.actualized.org/wordpress/wp-content/uploads/yoda-fucked-up-skepticism.png" alt="yoda-fucked-up-skepticism" width="615" height="400" /></p>
+]]></description>
+<pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/profound-yoda-007</guid>
+</item>
+<item>
+<title>How To Find Psychics &amp; Healers</title>
+<link>https://www.actualized.org/insights/how-to-find-psychics-healers</link>
+<description><![CDATA[<p>Isn't it amazing that in this day and age you can find psychics and paranormal healers through something as simple as Yelp.com?</p>
+<p>You can even find 5-star-reviewed ones! So you can easily weed out the scammers and quacks.</p>
+<p>Just go to Yelp and search your city for "psychic" or "medium" or "healer" or "spiritual healer" or "paranormal".</p>
+<p>You can also use this trick to find:</p>
+<ul>
+<li>Yoga centers</li>
+<li>Meditation centers</li>
+<li>Buddhist centers</li>
+<li>Reiki</li>
+<li>Craniosacral Therapy</li>
+<li>Acupuncture</li>
+<li>Life coaching</li>
+<li>All kinds of psychotherapists</li>
+<li>Counseling & Mental health</li>
+<li>Hypnosis / Hypnotherapy</li>
+<li>Herbal medicine / Chinese medicine</li>
+<li>Chiropractors</li>
+<li>Naturopaths</li>
+<li>Holistic doctors</li>
+<li>Alternative medicine</li>
+<li>NLP</li>
+<li>Neurofeedback / Biofeedback / EEG</li>
+<li>Monasteries</li>
+<li>Ashrams</li>
+<li>Temples</li>
+<li>Shamans</li>
+<li>Mystics</li>
+<li>Astrology</li>
+<li>Tarot</li>
+<li>Float Tanks</li>
+<li>Sleep centers</li>
+<li>Massage</li>
+<li>Etc.</li>
+</ul>
+<p>Just search for those terms. You'll be amazed at what kinds of helpful people and places you can find in your area.</p>
+<p>Note: If you're skeptical of some of this "New Age" stuff, I understand, but this would be a good time to apply radical openmindedness. I'm not saying it's all gonna work for you — or cure your cancer — but you must test before you judge. Some of this stuff can be life-transforming and is very worthwhile to personally experience. If you're an ardent skeptic, just consider the follow common sense and pragmatic point: There's a good reason why there are literally THOUSANDS of such places on Yelp open for business, earning good money, getting hundreds of 5-star reviews, and getting lots of repeat customers — because it really works and helps people. No, it's not because most people are gullible and superstitious and easily susceptible to quackery and placebo. It's not as easy to build a sustainable 5-star business on pure quackery as skeptics assume. The much more likely explanation is that your materialist/rationalist paradigm is making you prejudiced against actually trying some of this stuff for yourself. Armchair skepticism just won't cut it when it comes to this stuff. You must put your time and money where your mouth is. If you do, you might discover that your rationalist worldview doesn't hold up to reality. Would you rather be right, or be healthy?</p>
+<p>This one blog post could change your life, especially if you've got stubborn or subtle health issues like chronic fatigue, brain fog, bad PMS, depression, insomnia, ADHD, etc.</p>
+]]></description>
+<pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/how-to-find-psychics-healers</guid>
+</item>
+<item>
+<title>The Origins Of Mind</title>
+<link>https://www.actualized.org/insights/the-origins-of-mind</link>
+<description><![CDATA[<p>I couldn't help following up on the presentation by Thomas Ray (see previous post) and reading his PDF, Origins Of Mind. The implications of his research are astounding. If you're really into understanding consciousness and why spirituality is so complex, I highly recommend you read and contemplate this PDF:</p>
+<p><a href="/downloads/origins-of-mind.pdf" target="_blank">Origins of Mind by Thomas Ray</a></p>
+<p>The second half of the PDF gets especially profound.</p>
+]]></description>
+<pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/the-origins-of-mind</guid>
+</item>
+<item>
+<title>Don't Half-Ass Yoga</title>
+<link>https://www.actualized.org/insights/dont-half-ass-yoga</link>
+<description><![CDATA[<p>I'm seeing a lot of people who got excited about doing yoga after watching my <a href="https://www.actualized.org/articles/the-importance-of-real-yoga" target="_blank">The Importance Of Real Yoga video</a> going about it in a half-assed manner. That is not gonna fly!</p>
+<p>Yoga must be done rigorously in order for it to work. If you do yoga improperly, it could actually be counter-productive.</p>
+<p>Here's are some critical tips for how to start yoga properly:</p>
+<p></p><p class="video_box"><iframe src="https://player.vimeo.com/video/258736862?title=0&byline=0&portrait=0" width="615" height="345" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></p>
+]]></description>
+<pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/dont-half-ass-yoga</guid>
+</item>
+<item>
+<title>Sitting Posture For Yoga &amp; Meditation</title>
+<link>https://www.actualized.org/insights/sitting-posture-for-yoga-meditation</link>
+<description><![CDATA[<p>Here's an easy and simple sitting posture, perfect for staring your Kriya practice:</p>
+<p></p><p class="video_box"><iframe src="https://player.vimeo.com/video/258901224?title=0&byline=0&portrait=0" width="615" height="345" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></p>
+]]></description>
+<pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/sitting-posture-for-yoga-meditation</guid>
+</item>
+<item>
+<title>Breaking Convention YT Channel</title>
+<link>https://www.actualized.org/insights/breaking-convention-yt-channel</link>
+<description><![CDATA[<p><a href="http://www.breakingconvention.co.uk" target="_blank">Breaking Convention</a> is the International Conference on Psychedelic Consciousness held annually in the UK. It's one of the top psychedelic conventions. They feature hundreds of world-class pioneers and serious researchers in the fields of consciousness, medicine, and psychedelics.</p>
+<p>Check out some of their amazing presentations:</p>
+<p><a href="https://www.youtube.com/channel/UCULcgad6brJAvldt3tFW-sQ/videos" target="_blank">Breaking Convention Youtube Channel</a></p>
+<p>Here's just one mindblowing presentation from their collection:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/6fMLCKBAosE?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>By the way, the above kind of research is why I conjecture that enlightened masters have it easier than ordinary people. It is very likely that since everyone's brain is slightly different in constitution (due to genetics), it makes sense that a small percentage of the population would have lower seritonin-2 activity than normal, thus effectively making them naturally high on 5-MeO-DMT, which produces pure ego-loss and sense of cosmic consciousness. It would also make sense that certain yogic techniques can train the brain to deactivate seritonin-2 activity, thus producing ego-loss and cosmic consciousness. And this would also explain why New Age people become very woo-woo and into aliens and deities and astral projection and all sorts of trippy things like that, because their brains have a higher activity of seritonin-7 and load more mental organs into consciousness. It would also make sense that certain yogic techniques could train the brain for this too, thus developing siddhis (paranormal abilities).</p>
+<p>And yes, NEVERTHELESS, the brain still does not exist! This is all relative talk. The Absolute blows all this talk away.</p>
+<p>If this is making your mind choke, that's right! You're grappling with an infinite strange loop. You are not going to get at the fundamental nature of reality without paradox. The paradox must be so deep that it leads to the creation of the entire universe!</p>
+<p>And here is a second presentation which I really liked:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/GKesZXudgCo?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>And another great one:</p>
+<p><a href="https://www.youtube.com/watch?v=2q4VZUOGk2I" target="_blank">Rick Doblin MAPS MDMA Treatment For PTSD</a></p>
+]]></description>
+<pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/breaking-convention-yt-channel</guid>
+</item>
+<item>
+<title>Dark Room Retreats &amp; 5-MeO-DMT</title>
+<link>https://www.actualized.org/insights/dark-room-retreats-5-meo-dmt</link>
+<description><![CDATA[<p>I haven't tested this myself yet, but here's a very interesting lead to follow up on:</p>
+<p><a href="https://forums.5meodmt.org/index.php/topic,50491.0.html" target="_blank">Dark Room Recipe</a></p>
+<p>If this is true, to me, this would explain a lot about how early mankind discovered spirituality. It's such a simple technique that even a caveman can do it. You don't need mushrooms, you don't need fancy extractions of psychoactive substances, you don't need elaborate yogic techniques.</p>
+<p>Think about it... Any ancient culture could have stayed in a pitch-black cave for 4 days straight. If that is enough to create a full 5-MeO-DMT whiteout — that is deeper than I have ever tripped on 5-MeO — that is enough to become conscious of the absolute nature of everything, deriving the purest spiritual wisdom directly from the source. Could this be the technique that the ancient Egyptians used? The ancient Jews? The ancient Meso-Americans? It would not be hard to construct a dark room inside a temple or shine or stone monument complex like the pyramids or ziggurats.</p>
+<p>How cool would it be to travel back in time 7,000 years to ancient Egypt and learn all of their priests' secret spiritual techniques?</p>
+<p>Here's a fascinating report from a woman who completed a 40-day dark room retreat!</p>
+<p><a href="https://hridaya-yoga.com/reflections-on-a-40-day-dark-retreat/" target="_blank">Reflections On A 40-Day Dark Room Retreat</a></p>
+<p>If you have experience with 5-MeO-DMT, you know what is feels likes. For the sake of science, try doing a 4 day dark room retreat and see if you can get the same kind of high. If so, this should prove beyond a shadow of doubt that 5-MeO-DMT is endogenously produced, and responsible for the deepest awakenings of the highest enlightened masters. If you run this experiment, be sure to post your results on the forum. I'd love to gather the data.</p>
+<p>Here's <a href="http://dark-retreats.com/contact/" target="_blank">a place that offers</a> a Dark Room. (I haven't actually done it, so I can't vouch for that place).</p>
+]]></description>
+<pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/dark-room-retreats-5-meo-dmt</guid>
+</item>
+<item>
+<title>Profound Batman #006</title>
+<link>https://www.actualized.org/insights/profound-batman-006</link>
+<description><![CDATA[<p><img class="alignnone size-full wp-image-3519" src="https://www.actualized.org/wordpress/wp-content/uploads/batman-absolute-infinity.png" alt="batman-absolute-infinity" width="615" height="615" /></p>
+]]></description>
+<pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/profound-batman-006</guid>
+</item>
+<item>
+<title>It's Not Going To Stop, Till You Wise Up</title>
+<link>https://www.actualized.org/insights/its-not-going-to-stop-till-you-wise-up</link>
+<description><![CDATA[<p>If spiritual purification was a song, this would be it:</p>
+<p></p><p class="video_box"><iframe src="https://www.youtube.com/embed/dcIs3rAEytk?rel=0&vq=hd720" width="615" height="345" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Always great to listen to...</p>
+<ul>
+<li>After you've failed</li>
+<li>When you're stuck</li>
+<li>When you're feeling depressed</li>
+<li>When you're battling a stubborn addiction</li>
+<li>When you're facing an impossible obstacle</li>
+<li>After a breakup</li>
+<li>When you just want to reflect on life</li>
+</ul>
+<p>All of your suffering is just the friction of your ego against the grinding gears of Truth.</p>
+<p>Out of your saddest moments will come your greatest growth.</p>
+<p>Those moments when you feel the most alone in life — when you feel that bitter sting of reality — are also the most alive. That is true spirituality. Don't run from it. Embrace it. Yes, it's difficult as fuck.</p>
+]]></description>
+<pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/its-not-going-to-stop-till-you-wise-up</guid>
+</item>
+<item>
+<title>What Does Nothingness Look Like?</title>
+<link>https://www.actualized.org/insights/what-does-nothingness-look-like</link>
+<description><![CDATA[<p>When people hear the word "Nothingess", all too often they get a totally wrong idea about what that word is pointing to. Nothingness is NOT an empty void, a black screen, or a black hole.</p>
+<p>Here's a better approximation of what nothingness looks like:</p>
+<p><img class="alignnone size-full wp-image-3621" src="https://www.actualized.org/wordpress/wp-content/uploads/consciousness-substance.gif" alt="consciousness-substance" width="500" /></p>
+<p>Now keep in mind, this is just an analogy. A pointer. So don't start expecting to see the above flashy object in your meditation sessions. That's never going to happen.</p>
+<p>What the object above is showing is the dream-like, immaterial, illusory, quality of consciousness. Consciousness is totally empty, like the above object. It is fluid and can take on an infinite number of shapes, with infinite resolution and zero limitation. It is vibrant, alive, and intelligent.</p>
+<p>Can you see why the above object would be called Nothingness? Because it has no substance to it. It's pure appearance, and it can appear as literally anything. So we call it Nothingness, which is identical to Everythingness. Or, we could call it Infinity. Imagine if the above object was infinite in size and dimension such that it depicted every form imaginable. That would be what reality is, with your present experience being one of those forms.</p>
+<p>Try this: Look around the room you're in right now, and notice that the whole room is Nothingness, just like the object above. Don't expect the room to disappear! Stop looking for black screen. Instead, notice that the room is pure appearance with no substance behind it. The room is like a hologram. Appearance is none other than Nothingness. The room AS YOU SEE IT RIGHT NOW, is Nothingness!</p>
+<blockquote>
+<p style="text-align: center;">"Form is emptiness, and Emptiness is form."</p>
+</blockquote>
+<p style="text-align: right;">-- The Heart Sutra</p>
+]]></description>
+<pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/what-does-nothingness-look-like</guid>
+</item>
+<item>
+<title>Hawaii Solo Retreat Feb 2018 Videos</title>
+<link>https://www.actualized.org/insights/hawaii-solo-retreat-feb-2018-videos</link>
+<description><![CDATA[<p>Here's how my Hawaii solo retreat went down. Lots of dirty details and wisdom in the Nightly Insights videos below.</p>
+<p></p><p class="video_box"><iframe src="https://player.vimeo.com/video/257069731?title=0&byline=0&portrait=0" width="615" height="345" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Nightly Insights:</p>
+<ul>
+<li><a href="https://vimeo.com/257076407/55657def2c" target="_blank">Day 1</a></li>
+<li><a href="https://vimeo.com/257082845/c701ca33fb" target="_blank">Day 2</a></li>
+<li><a href="https://vimeo.com/257094438/1c9c540e3a" target="_blank">Day 3</a></li>
+<li><a href="https://vimeo.com/257105798/2dc76133c7" target="_blank">Day 4</a></li>
+<li><a href="https://vimeo.com/257209349/bfe2805c37" target="_blank">Day 5</a></li>
+<li><a href="https://vimeo.com/257236894/ae578f10d8" target="_blank">Day 6</a></li>
+<li><a href="https://vimeo.com/257331165/a51e3f469a" target="_blank">Day 7</a></li>
+<li>Bonus: <a href="https://vimeo.com/257202091/a99b0bf020" target="_blank">Hawaiian Thunderstorm</a></li>
+</ul>
+<p>Note: Keep in mind, the Nightly Insights videos are raw, off-the-cuff, and unpolished. They were shot at the end of grueling sessions of meditation.</p>
+]]></description>
+<pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/hawaii-solo-retreat-feb-2018-videos</guid>
+</item>
+<item>
+<title>What It's Like To Awaken</title>
+<link>https://www.actualized.org/insights/what-its-like-to-awaken</link>
+<description><![CDATA[<p><img class="alignnone size-full wp-image-3619" src="https://www.actualized.org/wordpress/wp-content/uploads/cc.gif" alt="cc" width="615" /></p>
+]]></description>
+<pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">https://www.actualized.org/insights/what-its-like-to-awaken</guid>
+</item>
+</channel>
+</rss>
